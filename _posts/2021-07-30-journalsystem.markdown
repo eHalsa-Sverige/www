@@ -15,7 +15,7 @@ video:
   title: "Journalsystem i Sverige"
   source: "lumen"
 sitemap:
-  lastmod: 2024-11-20
+  lastmod: 2025-02-19
   priority: 0.7
   changefreq: 'weekly'
 excerpt_separator: <!--more-->
@@ -34,7 +34,7 @@ Idag används sex journalsystem i den regionalt styrda vården. 18 regioner anv�
 |------|----------|-------|--------|
 |Region Blekinge|NCS Cross|NCS Cross|Cosmic|
 |Region Dalarna|TakeCare|TakeCare|Cosmic|
-|Region Gotland|TakeCare|TakeCare|-|
+|Region Gotland|TakeCare|TakeCare|Cosmic|
 |Region Gävleborg|PMO|Melior|Cosmic|
 |Region Halland|VAS|VAS|Cosmic|
 |Region Jämtland Härjedalen|Cosmic|Cosmic|-|
@@ -43,7 +43,7 @@ Idag används sex journalsystem i den regionalt styrda vården. 18 regioner anv�
 |Region Kronoberg|Cosmic|Cosmic|-|
 |Region Norrbotten|VAS|VAS|Cosmic|
 |Region Skåne|PMO|Melior|Millennium|
-|Region Stockholm|TakeCare|TakeCare|-|
+|Region Stockholm|TakeCare|TakeCare|Cosmic|
 |Region Sörmland|NCS Cross|NCS Cross|Cosmic|
 |Region Uppsala|Cosmic|Cosmic|-|
 |Region Värmland|Cosmic|Cosmic|-|
@@ -59,7 +59,9 @@ Idag används sex journalsystem i den regionalt styrda vården. 18 regioner anv�
 Vissa privata vårdgivare använder journalsystem som skiljer sig från den offentligt styrda vården i respektive region. Exempelvis använder Sankt Görans sjukhus i Stockholm Cosmic snarare än TakeCare, som används av den offentliga vården.
 
 ## Så ritas kartan om {#ny-karta}
-Ett flertal regioner planerar att byta ut sina journalsystem. Inom några år kommer flertalet regioner att använda Cambio Cosmic, men storregionerna Skåne och Västra Götaland har valt Cerner Millennium. Stockholm och Gotland har ännu inte beslutat sig.
+Ett flertal regioner planerar att byta ut sina journalsystem. Inom några år kommer flertalet regioner att använda Cambio Cosmic, men storregionerna Skåne och Västra Götaland har valt Cerner Millennium. Stockholm och Gotland valde Cambio Cosmic i början av 2025.
+
+**Läs mer:** [Upphandlingar av journalsystem](/2022/06/16/upphandlingar-av-journalsystem.html)
 
 ![Karta över planerade journalsystem](/assets/images/post-assets/planerade_journalsystem.svg "Karta över planerade journalsystem")
 
