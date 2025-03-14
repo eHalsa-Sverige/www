@@ -189,7 +189,7 @@ Ett gemensamt system för hela socialtjänsten, inklusive kommunal hälso- och s
 **Leverantör:** Carasent Sverige AB\
 **Vårdnivå:** Primärvård/sjukhus (Specialistvård)
 
-System som används på över 600 privata vårdmottagningar inom både primärvård och specialistvård. Svensktillverkat journalsystem som säljs som SaaS-lösning.
+Webdoc används idag av 850 privata vårdgivare över hela landet och inom primärvård, specialistvård, kirurgi, rehab, psykiatri och företagshälsa. Webbaserat journalsystem (SaaS) speciellt anpassat för, och utvecklat i samverkan med, privata vårdgivare.
 
 ## Vidare läsning
 **Läs mer**: [2021-10-13 Nästan två av tre regioner ska få nya journalsystem (Dagensmedicin)](https://www.dagensmedicin.se/vardens-styrning/digitalisering/nastan-tva-av-tre-regioner-ska-fa-nya-journalsystem/)\
