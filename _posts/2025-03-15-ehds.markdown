@@ -1,0 +1,89 @@
+---
+layout: post
+title: "European Health Data Space (EHDS) så påverkas Sverige"
+description: "EHDS (European Health Data Space) är EU:s initiativ för att skapa en gemensam digital infrastruktur för hälsodata inom medlemsländerna. Våren 2024 nådde Europaparlamentet och EU:s ministerråd en politisk överenskommelse om kommissionens förslag om ett europeiskt hälsodataområde."
+date: 2025-03-15 08:00:00 +0200
+tags: Lagar Journalsystem Standarder
+tags_extra: Inera SKR eHälsomyndigheten EU EHDS European Health Data Space
+author:
+  name: "Redaktionen"
+  description: "Intern grupp som arbetar med webplatsen."
+image:
+  path: "/assets/images/post-head/500/ehds.jpg"
+video: false
+sitemap:
+  lastmod: 2025-03-15
+  priority: 0.7
+  changefreq: 'weekly'
+excerpt_separator: <!--more-->
+karta: false
+chart: false
+cc: false
+---
+
+EHDS (European Health Data Space) är EU:s initiativ för att skapa en gemensam digital infrastruktur för hälsodata inom medlemsländerna. Våren 2024 nådde Europaparlamentet och EU:s ministerråd en politisk överenskommelse om kommissionens förslag om ett europeiskt hälsodataområde. Syftet är att förbättra individers tillgång till sin egen hälsodata, underlätta utbyte av information mellan vårdgivare och möjliggöra säkrare och mer effektiva vårdtjänster över landsgränserna. Oavsett vilket tekniskt system som används, vilken privat eller offentlig vårdgivare en individ har, eller vilken region i Sverige eller vilket land i Europa personen bor i, så ska all information alltid följa med individen.
+
+<!--more-->
+
+{% include toc.md %}
+
+<style>.linkedin {display: block;margin-left: auto;margin-right: auto;max-width: 100%;}</style>
+
+## Delar av EHDS
+### Registrering och utbyte av prioriterade kategorier i EU-format
+För att skapa en gemensam standard för hälsodata inom EU har ett antal prioriterade kategorier identifierats. Dessa omfattar e-recept, elektronisk expediering och patientöversikter, vilket underlättar hantering och tillgång till läkemedelsordinationer och patientjournaler. Bilddiagnostik, testresultat och utskrivningsrapporter ingår också i standarden och omfattar bland annat röntgenbilder, laboratorievärden och sammanfattningar av vårdförlopp. Utöver dessa kategorier har medlemsstaterna möjlighet att lägga till ytterligare typer av hälsodata i enlighet med nationell rätt.
+
+### Tillgångstjänster för vårdpersonal
+För att säkerställa en effektiv och kvalitativ vård ska behörig vårdpersonal ha tillgång till sina patienters e-hälsodata, oavsett vilken medlemsstat patienten tillhör. Medlemsstaterna bestämmer dock vilka yrkesgrupper som har behörighet att ta del av informationen. Tillgången till patientdata kräver inte samtycke i traditionell mening, vilket skiljer sig från den svenska modellen. Istället finns möjlighet för patienter att spärra information eller välja en opt-out-lösning.
+
+### Patientportaler för individer
+För att ge patienter ökad kontroll över sin hälsodata implementeras digitala patientportaler. Genom dessa portaler kan patienter få tillgång till sin hälsodata och utöva sina rättigheter, exempelvis genom att använda funktioner för spärr, opt-out, dataportabilitet, logghantering och uppdatering av egna uppgifter. Dessutom erbjuds en fullmaktstjänst, vilket gör det möjligt för patienter att delegera rättigheter till anhöriga eller juridiska ombud, inklusive relationer mellan vårdnadshavare och barn.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7293562078139748353?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Inbäddat inlägg" class="linkedin"></iframe>
+
+## Huvudkomponenter i EHDS
+### Primär användning av hälsodata
+Medborgare ska ha bättre kontroll över sin egen hälsodata och kunna dela den mellan olika vårdgivare inom EU. Standardiserade elektroniska patientjournaler ska göra det möjligt att till exempel få vård i andra medlemsländer med åtkomst till relevanta medicinska uppgifter.
+
+### Sekundär användning av hälsodata
+Anonymiserad eller pseudonymiserad hälsodata kan användas för forskning, innovation och policyutveckling inom hälsoområdet. Ett nytt ramverk ska etableras för att säkerställa att data delas på ett säkert och etiskt sätt, med skydd för individens integritet.
+
+### Interoperabilitet och säkerhet
+EU-länder ska införa gemensamma standarder för dataformat och säkerhetskrav. Nya regler ska säkerställa att datautbyte sker i enlighet med GDPR och andra relevanta lagar.
+
+### Reglering och styrning
+Nationella hälsodataombud ska utses för att övervaka efterlevnad och hantering av hälsodata. En EU-myndighet för hälsodata kommer att stödja samordningen mellan länderna.
+
+## Påverkan på Sverige
+För Sverige innebär EHDS en anpassning av nationella system till EU:s standarder, vilket kan kräva förändringar i hur vårdgivare hanterar patientjournaler och hur hälsodata delas mellan aktörer. Arbetet för att skapa förutsättningarna nationellt i Sverige görs av “Nationellt råd för interoperabilitet” som leds av eHälsomyndigheten.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7290285295554424832?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Inbäddat inlägg" class="linkedin"></iframe>
+
+Läkemedelsverket får uppdraget av regeringen att utreda förutsättningarna för att ges rollen som marknadskontrollsmyndighet. Regeringen har även fattat beslut om att E-hälsomyndigheten ska intensifiera det redan pågående arbetet med utvecklingen av en nationell digital infrastruktur för hälso- och sjukvården i Sverige.
+
+### Nuläge: Ineras leverans av NPÖ
+Nationell Patientöversikt (NPÖ) är en svensk nationell tjänst som möjliggör informationsutbyte mellan vårdgivare genom att ge behörig vårdpersonal tillgång till patientjournaler oavsett huvudman. Genom NPÖ kan exempelvis en läkare i en region se relevanta journaluppgifter från en annan region eller från en kommun, vilket förbättrar samordningen av vården och ökar patientsäkerheten.
+Med införandet av European Health Data Space (EHDS) ställs nu nya krav på interoperabilitet och datadelning, vilket skapar både möjligheter och utmaningar för NPÖ.
+
+**Läs mer:** [Ineras tjänster](/2022/06/02/ineras-tjanster.html)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7306226798122459137?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Inbäddat inlägg" class="linkedin"></iframe>
+
+### Tidsplan & framtid
+Förordningen börjar tillämpas 2027 och kommer kunna genomföras stegvis med målsättningen att kunna dela fullständig data till “Hälsodata@EU” och då till tredje land 2035.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7303052450561716224?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Inbäddat inlägg" class="linkedin"></iframe>
+
+I Sverige måste det klargöras vilken roll aktörer som Inera och eHälsomyndigheten ska ha i detta arbete. NPÖ är idag anpassad för svenska strukturer, vilket kan behöva förändras för att matcha EU:s krav. Myndigheter, offentliga organisationer och intresseorganisationer behöver alltså komma fram till om vi ska bygga vidare på det vi har, eller om vi ska bygga om från början.
+
+<br><br>
+**Läs mer:** [EU: Det europeiska hälsodataområdet](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_sv)<br>
+**Läs mer:** [E‑hälsomyndigheten: Nationellt råd för interoperabilitet](https://www.ehalsomyndigheten.se/om-oss/regeringsuppdrag/nationell-funktion-for-interoperabilitet/nationellt-rad-for-interoperabilitet/)<br>
+**Läs mer:** [E‑hälsomyndigheten: Det europeiska hälsodataområdet, EHDS](https://www.ehalsomyndigheten.se/ehds/)<br>
+**Läs mer:** [Socialstyrelsen: EU:s gemensamma hälsodataområde – EHDS](https://www.socialstyrelsen.se/om-socialstyrelsen/organisation/internationellt-arbete/eus-gemensamma-halsodataomrade-ehds/)<br>
+**Läs mer:** [SKR: Det europeiska hälsodataområdet (EHDS)](https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/euforordningareudirektivdigitalisering/forslag/deteuropeiskahalsodataomradetehds.70268.html)
+<br><br>
+
+Området är i ständig utveckling och historien formas nu i realtid. För närvarande saknar vi klarhet i hur EHDS kommer att implementeras i Sverige. Artikeln kommer att uppdateras löpande.
+
+_Hittat något fel eller vill du dela några tankar? [Kontakta oss!](/index.html#form-message)_
