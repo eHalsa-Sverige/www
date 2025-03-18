@@ -12,7 +12,7 @@ image:
   path: "/assets/images/post-head/500/ehds.jpg"
 video: false
 sitemap:
-  lastmod: 2025-03-15
+  lastmod: 2025-03-18
   priority: 0.7
   changefreq: 'weekly'
 excerpt_separator: <!--more-->
@@ -61,9 +61,12 @@ För Sverige innebär EHDS en anpassning av nationella system till EU:s standard
 
 Läkemedelsverket får uppdraget av regeringen att utreda förutsättningarna för att ges rollen som marknadskontrollsmyndighet. Regeringen har även fattat beslut om att E-hälsomyndigheten ska intensifiera det redan pågående arbetet med utvecklingen av en nationell digital infrastruktur för hälso- och sjukvården i Sverige.
 
-### Nuläge: Ineras leverans av NPÖ
+### Nuläge: Ineras leverans av 1177 & NPÖ
+1177 är en digital tjänst som tillhandahålls av Inera och erbjuder information, rådgivning och e-tjänster inom hälso- och sjukvård. Tjänsten ger invånare möjlighet att hantera vårdärenden, såsom att boka tider och läsa viss journalinformation. Dock är inte alla offentligt finansierade vårdgivare anslutna och de som är anslutna bestämmer själva vilken information som delas.
+
 Nationell Patientöversikt (NPÖ) är en svensk nationell tjänst som möjliggör informationsutbyte mellan vårdgivare genom att ge behörig vårdpersonal tillgång till patientjournaler oavsett huvudman. Genom NPÖ kan exempelvis en läkare i en region se relevanta journaluppgifter från en annan region eller från en kommun, vilket förbättrar samordningen av vården och ökar patientsäkerheten.
-Med införandet av European Health Data Space (EHDS) ställs nu nya krav på interoperabilitet och datadelning, vilket skapar både möjligheter och utmaningar för NPÖ.
+
+Med införandet av European Health Data Space (EHDS) ställs nu nya krav på interoperabilitet och datadelning, vilket skapar både möjligheter och utmaningar för 1177 & NPÖ.
 
 **Läs mer:** [Ineras tjänster](/2022/06/02/ineras-tjanster.html)
 
@@ -75,6 +78,8 @@ Förordningen börjar tillämpas 2027 och kommer kunna genomföras stegvis med m
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7303052450561716224?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Inbäddat inlägg" class="linkedin"></iframe>
 
 I Sverige måste det klargöras vilken roll aktörer som Inera och eHälsomyndigheten ska ha i detta arbete. NPÖ är idag anpassad för svenska strukturer, vilket kan behöva förändras för att matcha EU:s krav. Myndigheter, offentliga organisationer och intresseorganisationer behöver alltså komma fram till om vi ska bygga vidare på det vi har, eller om vi ska bygga om från början.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7307415938104987650?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Inbäddat inlägg" class="linkedin"></iframe>
 
 <br><br>
 **Läs mer:** [EU: Det europeiska hälsodataområdet](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_sv)<br>
