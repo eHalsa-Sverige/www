@@ -12,7 +12,6 @@ function handleEvent(e) {
     console.log(`Event kunde inte laddas pga: "${e.type}" (${e.loaded} bytes transferred)`);
     errorPost(`Event kunde inte laddas pga: "${e.type}" (${e.loaded} bytes transferred)`);
 };
-{%- if site.url == "http://0.0.0.0:4000" -%}{%- capture eventlink -%}{{ site.microserver.event.local }}{%- endcapture -%}{%- else -%}{%- capture eventlink -%}{{ site.microserver.event.live }}{%- endcapture -%}{%- endif -%}
 var loadFile = function (filePath, done) {
     hideElement('eventLoader');
     var xhr = new XMLHttpRequest();
@@ -21,7 +20,7 @@ var loadFile = function (filePath, done) {
         xhr.open("GET", encodeURI(filePath), true);
         xhr.send();
 };
-    loadFile("{{ eventlink }}", function (responseText) {
+    loadFile("/assets/data/event.json", function (responseText) {
         var res = JSON.parse(responseText);
         console.log('Events: ' + res.latestUpdate);
         var wrapper = document.getElementById('event-wrapper');
