@@ -36,12 +36,12 @@ var loadFile = function (filePath, done) {
                         linkDate.setAttribute('class', 'cal-ev-col');
                         var linkDateDay = document.createElement('div');
                             linkDateDay.setAttribute('class', 'oneline');
-                            var linkDateDayText = document.createTextNode(parseInt(row[0].split('-')[2]));
+                            var linkDateDayText = document.createTextNode(parseInt(row[1]));
                             linkDateDay.appendChild(linkDateDayText);
                         linkDate.appendChild(linkDateDay);
                         var linkDateMonth = document.createElement('div');
                             linkDateMonth.setAttribute('class', 'min');
-                            var linkDateMonthText = document.createTextNode(monthText(row[0].split('-')[1]));
+                            var linkDateMonthText = document.createTextNode(monthText(row[0]));
                             linkDateMonth.appendChild(linkDateMonthText);
                         linkDate.appendChild(linkDateMonth);
                     link.appendChild(linkDate);
