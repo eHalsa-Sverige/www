@@ -1,52 +1,37 @@
 {
-"data": [
-[
-"2026-01-21",
-"2026-01-22",
-"e-Hälsa+MVTe",
-"https://e-halsastockholm.se/",
-"Nordic Live Expo",
-"3",
-"TRUE"
-],
-[
-"2026-01-21",
-"2026-01-22",
-"Framtidens Hälso & Sjukvård",
-"https://framtidenshalsosjukvard.se/",
-"Nordic Live Expo",
-"3",
-"TRUE"
-],
-[
-"2026-01-28T12:15:00",
-"2026-01-28T13:00:00",
-"Samexistens på riktigt – så möjliggör vi informationsutbyte mellan system",
-"https://events.teams.microsoft.com/event/7a612178-ec84-4d9c-9109-00810162b679@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-02-11T12:15:00",
-"2026-02-11T13:00:00",
-"När samverkan sker – Cambio Obstetrik som exempel på effektivt samarbete vid införande",
-"https://events.teams.microsoft.com/event/fc2ad64d-a451-4e35-ae5c-00ee5d1dbb57@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-03-11T12:15:00",
-"2026-03-11T13:00:00",
-"Så bygger vi in artificiell intelligens i Cambio Viva",
-"https://events.teams.microsoft.com/event/a3082c4f-8986-4d2e-b018-f21ca46920c8@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-]
-],
-"date": 1769032301075,
-"latestUpdate": "Uppdaterades senast vid: 1/21/2026, 9:51:41 PM",
-"source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
+    "data": [
+        [
+            "260121",
+            "260122",
+            "e-Hälsa+MVTe",
+            "https://e-halsastockholm.se/"
+        ],
+        [
+            "260121",
+            "260122",
+            "Framtidens Hälso & Sjukvård",
+            "https://framtidenshalsosjukvard.se/"
+        ],
+        [
+            "260128",
+            "",
+            "Samexistens på riktigt – så möjliggör vi informationsutbyte mellan system",
+            "https://events.teams.microsoft.com/event/7a612178-ec84-4d9c-9109-00810162b679@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
+        ],
+        [
+            "260211",
+            "",
+            "När samverkan sker – Cambio Obstetrik som exempel på effektivt samarbete vid införande",
+            "https://events.teams.microsoft.com/event/fc2ad64d-a451-4e35-ae5c-00ee5d1dbb57@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
+        ],
+        [
+            "260311",
+            "",
+            "Så bygger vi in artificiell intelligens i Cambio Viva",
+            "https://events.teams.microsoft.com/event/a3082c4f-8986-4d2e-b018-f21ca46920c8@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
+        ]
+    ],
+    "date": "1769034956405",
+    "latestUpdate": "Uppdaterades senast vid: 2026-01-21 23:35",
+    "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
