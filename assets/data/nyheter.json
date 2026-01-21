@@ -1,62 +1,37 @@
 {
-"data": [
-{
-"date": "2025-11-17",
-"title": "Lång väntan på demensdiagnoser  - men stor skillnad mellan regioner",
-"url": "https://www.socialstyrelsen.se/link/1a6d9f6fb5b5489889c856eab1aba0be.aspx",
-"source": "Socialstyrelsen",
-"filter": {
-"title": false,
-"content": true,
-"flags": true
-}
-},
-{
-"date": "2025-11-10",
-"title": "Så vill Socialstyrelsen minska onödig vård",
-"url": "https://www.socialstyrelsen.se/link/9f4ace7cf9b243d38690f798b67fdad0.aspx",
-"source": "Socialstyrelsen",
-"filter": {
-"title": false,
-"content": true,
-"flags": true
-}
-},
-{
-"date": "2025-11-08",
-"title": "Socialstyrelsen: Palliativ vård  behöver nå fler och sättas in tidigare",
-"url": "https://www.socialstyrelsen.se/link/c131404e0630468e8a207271e7dd9e4e.aspx",
-"source": "Socialstyrelsen",
-"filter": {
-"title": false,
-"content": true,
-"flags": true
-}
-},
-{
-"date": "2025-09-30",
-"title": "Dags för Donationsveckan – så säkras tillgången på organ och vävnader",
-"url": "https://www.socialstyrelsen.se/link/fa8ade7a3a1448ec9c3b998254eaa4b9.aspx",
-"source": "Socialstyrelsen",
-"filter": {
-"title": false,
-"content": true,
-"flags": true
-}
-},
-{
-"date": "2025-09-14",
-"title": "Nya riktlinjer ska stärka vården vid klimakteriebesvär",
-"url": "https://www.socialstyrelsen.se/link/351414498d1c4d6d90d610d7de9fce94.aspx",
-"source": "Socialstyrelsen",
-"filter": {
-"title": false,
-"content": true,
-"flags": true
-}
-}
-],
-"date": 1768999706014,
-"latestUpdate": "Uppdaterades senast vid: 1/21/2026, 12:48:26 PM",
-"source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
+    "data": [
+        {
+            "title": "Betydande risker – kan äventyra totalförsvaret",
+            "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/betydanderiskerkanaventyratotalforsvaret.9819.html",
+            "isoDate": "2026-01-09T13:55:28.000Z",
+            "author": "SKR"
+        },
+        {
+            "title": "Taket i högkostnadsskyddet blir högre den 1 januari 2026",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2025/taket-i-hogkostnadsskyddet-blir-hogre-den-1-januari/",
+            "isoDate": "2025-12-29T10:00:10.000Z",
+            "author": "E-hälsomyndigheten"
+        },
+        {
+            "title": "Nära vård blir inte verklighet utan forskning",
+            "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/naravardblirinteverklighetutanforskning.9787.html",
+            "isoDate": "2025-12-23T12:00:00.000Z",
+            "author": "SKR"
+        },
+        {
+            "title": "Fler barn får ta del av Fritidskortet – och ersättningen höjs",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2025/fler-barn-far-ta-del-av-fritidskortet--och-ersattningen-hojs/",
+            "isoDate": "2025-12-22T16:00:11.000Z",
+            "author": "E-hälsomyndigheten"
+        },
+        {
+            "title": "Sätt inte stopp för demokratiutveckling i Ukraina",
+            "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/sattintestoppfordemokratiutvecklingiukraina.9813.html",
+            "isoDate": "2025-12-22T11:11:12.000Z",
+            "author": "SKR"
+        }
+    ],
+    "date": "1769007741415",
+    "latestUpdate": "Uppdaterades senast vid: 2026-01-21 10:02",
+    "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }
