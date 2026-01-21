@@ -2,11 +2,8 @@
 sitemap:
   exclude: 'yes'
 ---
-{%- if site.url == "http://0.0.0.0:4000" -%}{%- capture ehalsomyndigheten -%}{{ site.microserver.nyheter_ehalsomyndigheten.local }}{%- endcapture -%}{%- else -%}{%- capture ehalsomyndigheten -%}{{ site.microserver.nyheter_ehalsomyndigheten.live }}{%- endcapture -%}{%- endif -%}
-{%- if site.url == "http://0.0.0.0:4000" -%}{%- capture skr -%}{{ site.microserver.nyheter_skr.local }}{%- endcapture -%}{%- else -%}{%- capture skr -%}{{ site.microserver.nyheter_skr.live }}{%- endcapture -%}{%- endif -%}
-{%- if site.url == "http://0.0.0.0:4000" -%}{%- capture socialstyrelsen -%}{{ site.microserver.nyheter_socialstyrelsen.local }}{%- endcapture -%}{%- else -%}{%- capture socialstyrelsen -%}{{ site.microserver.nyheter_socialstyrelsen.live }}{%- endcapture -%}{%- endif -%}
 function handleEnter(el, e){if(e.keyCode == '13'){el.click();};};
-function buildNewsTable(){
+function buildNewsTable(newsData){
     var rubriker = ['Datum', 'Rubrik', 'Utgivare'];
     var wrapper = document.getElementById('newsContent');
         removeElements(wrapper);
@@ -24,7 +21,7 @@ function buildNewsTable(){
             table.appendChild(thead);
             for (let i = 0; i < newsData.length; i++) {
                 var line = document.createElement('tr');
-                    line.setAttribute('onclick', 'window.open("' + newsData[i].url + '", "_blank");');
+                    line.setAttribute('onclick', 'window.open("' + newsData[i].link + '", "_blank");');
                     line.setAttribute('tabindex', '0');
                     line.setAttribute('onkeypress', 'handleEnter(this, event);');
                     var date = document.createElement('td');
@@ -52,7 +49,6 @@ function buildNewsTable(){
         wrapper.appendChild(table);
     hideElement('shownyheter');
 };
-var newsData = [];
 function handleEvent(e) {
     console.log(`Nyhet kunde inte laddas pga: "${e.type}" (${e.loaded} bytes transferred)`);
     errorPost(`Nyhet kunde inte laddas pga: "${e.type}" (${e.loaded} bytes transferred)`);
@@ -64,14 +60,10 @@ var loadFile = function (filePath, done) {
         xhr.open("GET", encodeURI(filePath), true);
         xhr.send();
 };
-var kallor = ["{{ ehalsomyndigheten }}", "{{ skr }}", "{{ socialstyrelsen }}"];
-for (let i = 0; i < kallor.length; i++) {
-    loadFile(kallor[i], function (responseText) {
-        var data = JSON.parse(responseText).data;
-        console.log('Nyheter ' + data[0].source + ': ' + JSON.parse(responseText).latestUpdate);
-        for (let a = 0; a < data.length; a++) { newsData.push(data[a]); };
-        newsData.sort(function(a, b){return b.date.split(' ')[0].replace(/-/g, '') - a.date.split(' ')[0].replace(/-/g, '');});
-        if(newsData.length > 5){ newsData.length = 5; };
-        buildNewsTable();
-    });
-};
+
+loadFile('/assets/data/nyheter.json', function (responseText) {
+    var data = JSON.parse(responseText).data;
+    console.log('Nyheter ' + data[0].source + ': ' + JSON.parse(responseText).latestUpdate);
+    for (let a = 0; a < data.length; a++) { newsData.push(data[a]); };
+    buildNewsTable(data.data);
+});
