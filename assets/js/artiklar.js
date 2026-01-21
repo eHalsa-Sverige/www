@@ -2,7 +2,6 @@
 sitemap:
   exclude: 'yes'
 ---
-{%- if site.url == "http://0.0.0.0:4000" -%}{%- capture articlelink -%}{{ site.microserver.artiklar.local }}{%- endcapture -%}{%- else -%}{%- capture articlelink -%}{{ site.microserver.artiklar.live }}{%- endcapture -%}{%- endif -%}
 function handleEventArtikel(e) {
     var wrapper = document.getElementById('feedContent');
     removeElement('feedLoader');
@@ -22,7 +21,7 @@ var loadFile = function (filePath, done) {
         xhr.open("GET", encodeURI(filePath), true);
         xhr.send();
 };
-var file = '{{ articlelink }}';
+var file = '/assets/data/pubmed.json';
 loadFile(file, function (responseText) {
     console.log('Artiklar: ' + JSON.parse(responseText).latestUpdate);
     var data = JSON.parse(responseText).data;
