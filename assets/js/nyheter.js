@@ -64,6 +64,5 @@ var loadFile = function (filePath, done) {
 loadFile('/assets/data/nyheter.json', function (responseText) {
     var data = JSON.parse(responseText).data;
     console.log('Nyheter ' + data[0].source + ': ' + JSON.parse(responseText).latestUpdate);
-    for (let a = 0; a < data.length; a++) { newsData.push(data[a]); };
     buildNewsTable(data.data);
 });
