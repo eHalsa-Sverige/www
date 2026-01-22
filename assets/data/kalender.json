@@ -1,133 +1,133 @@
 {
-"data": [
-[
-"2026-01-21",
-"2026-01-22",
-"e-Hälsa+MVTe",
-"https://e-halsastockholm.se/",
-"Nordic Live Expo",
-"3",
-"TRUE"
-],
-[
-"2026-01-21",
-"2026-01-22",
-"Framtidens Hälso & Sjukvård",
-"https://framtidenshalsosjukvard.se/",
-"Nordic Live Expo",
-"3",
-"TRUE"
-],
-[
-"2026-01-28T12:15:00",
-"2026-01-28T13:00:00",
-"Samexistens på riktigt – så möjliggör vi informationsutbyte mellan system",
-"https://events.teams.microsoft.com/event/7a612178-ec84-4d9c-9109-00810162b679@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-02-11T12:15:00",
-"2026-02-11T13:00:00",
-"När samverkan sker – Cambio Obstetrik som exempel på effektivt samarbete vid införande",
-"https://events.teams.microsoft.com/event/fc2ad64d-a451-4e35-ae5c-00ee5d1dbb57@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-03-03T13:00:00",
-"2026-03-03T14:30:00",
-"Mobila trygghetslarm – nyttor att räkna med",
-"https://skr.se/evenemang/evenemangskalender/mobilatrygghetslarmnyttorattraknamed.9520.html",
-"SKR",
-"1",
-"FALSE"
-],
-[
-"2026-03-11T12:15:00",
-"2026-03-11T13:00:00",
-"Så bygger vi in artificiell intelligens i Cambio Viva",
-"https://events.teams.microsoft.com/event/a3082c4f-8986-4d2e-b018-f21ca46920c8@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-03-19T08:15:00",
-"2026-03-19T18:00:00",
-"IoT Sveriges slutkonferens­",
-"https://iotsverige.se/kalendarium/slutkonferens2026",
-"IoT Sverige",
-"2",
-"FALSE"
-],
-[
-"2026-03-23T13:00:00",
-"2026-03-23T14:30:00",
-"Digitalt inköp - Hur ska det hanteras?",
-"https://skr.se/evenemang/evenemangskalender/digitalainkophurskadethanteras.9833.html",
-"SKR",
-"1",
-"FALSE"
-],
-[
-"2026-03-25T12:15:00",
-"2026-03-25T13:00:00",
-"Alltid redo! Effektiv beredskapsplanering med Cambio Vårdlogistik",
-"https://events.teams.microsoft.com/event/5ba1e2e8-9752-43e5-98e4-9c81fdf0a470@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-04-08T12:15:00",
-"2026-04-08T13:00:00",
-"Vårdplaner – för ökad invånarinvolvering och effektivare flöden i sjukvården",
-"https://events.teams.microsoft.com/event/fd5afefe-2bdc-4083-9aed-6f99cc93a20c@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-04-22T12:15:00",
-"2026-04-22T13:00:00",
-"En sammanhållen vård, omsorg och socialtjänst – med individen i fokus",
-"https://events.teams.microsoft.com/event/1e56e061-a9ef-4be4-89cf-6c355b669ccf@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-05-13T12:15:00",
-"2026-05-13T13:00:00",
-"Cambio Platform – innovationskraft och flexibilitet med en öppen hälsodataplattform",
-"https://events.teams.microsoft.com/event/27cc0458-e1e8-4846-a491-4d8dffcf0910@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-05-27T12:15:00",
-"2026-05-27T13:00:00",
-"Egenmonitorering i verkligheten – från införandeprocess till praktisk tillämpning",
-"https://events.teams.microsoft.com/event/3df99ea8-5e90-4e48-a0e2-c0f100e5c2ad@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-],
-[
-"2026-06-10T12:15:00",
-"2026-06-10T13:00:00",
-"Kommunikation över språkbarriärer med AI-assistenten Helen – nu integrerad i COSMIC",
-"https://events.teams.microsoft.com/event/e1fb8c1f-f5d3-48a8-b56a-e579c72af405@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-"Cambio",
-"1",
-"FALSE"
-]
-],
-"date": 1769108317427,
-"latestUpdate": "Uppdaterades senast vid: 1/22/2026, 6:58:37 PM",
-"source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
+    "data": [
+        [
+            "2026-01-21",
+            "2026-01-22",
+            "e-Hälsa+MVTe",
+            "https://e-halsastockholm.se/",
+            "Nordic Live Expo",
+            "3",
+            "TRUE"
+        ],
+        [
+            "2026-01-21",
+            "2026-01-22",
+            "Framtidens Hälso & Sjukvård",
+            "https://framtidenshalsosjukvard.se/",
+            "Nordic Live Expo",
+            "3",
+            "TRUE"
+        ],
+        [
+            "2026-01-28T12:15:00",
+            "2026-01-28T13:00:00",
+            "Samexistens på riktigt – så möjliggör vi informationsutbyte mellan system",
+            "https://events.teams.microsoft.com/event/7a612178-ec84-4d9c-9109-00810162b679@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-02-11T12:15:00",
+            "2026-02-11T13:00:00",
+            "När samverkan sker – Cambio Obstetrik som exempel på effektivt samarbete vid införande",
+            "https://events.teams.microsoft.com/event/fc2ad64d-a451-4e35-ae5c-00ee5d1dbb57@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-03-03T13:00:00",
+            "2026-03-03T14:30:00",
+            "Mobila trygghetslarm – nyttor att räkna med",
+            "https://skr.se/evenemang/evenemangskalender/mobilatrygghetslarmnyttorattraknamed.9520.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-03-11T12:15:00",
+            "2026-03-11T13:00:00",
+            "Så bygger vi in artificiell intelligens i Cambio Viva",
+            "https://events.teams.microsoft.com/event/a3082c4f-8986-4d2e-b018-f21ca46920c8@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-03-19T08:15:00",
+            "2026-03-19T18:00:00",
+            "IoT Sveriges slutkonferens­",
+            "https://iotsverige.se/kalendarium/slutkonferens2026",
+            "IoT Sverige",
+            "2",
+            "FALSE"
+        ],
+        [
+            "2026-03-23T13:00:00",
+            "2026-03-23T14:30:00",
+            "Digitalt inköp - Hur ska det hanteras?",
+            "https://skr.se/evenemang/evenemangskalender/digitalainkophurskadethanteras.9833.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-03-25T12:15:00",
+            "2026-03-25T13:00:00",
+            "Alltid redo! Effektiv beredskapsplanering med Cambio Vårdlogistik",
+            "https://events.teams.microsoft.com/event/5ba1e2e8-9752-43e5-98e4-9c81fdf0a470@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-04-08T12:15:00",
+            "2026-04-08T13:00:00",
+            "Vårdplaner – för ökad invånarinvolvering och effektivare flöden i sjukvården",
+            "https://events.teams.microsoft.com/event/fd5afefe-2bdc-4083-9aed-6f99cc93a20c@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-04-22T12:15:00",
+            "2026-04-22T13:00:00",
+            "En sammanhållen vård, omsorg och socialtjänst – med individen i fokus",
+            "https://events.teams.microsoft.com/event/1e56e061-a9ef-4be4-89cf-6c355b669ccf@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-05-13T12:15:00",
+            "2026-05-13T13:00:00",
+            "Cambio Platform – innovationskraft och flexibilitet med en öppen hälsodataplattform",
+            "https://events.teams.microsoft.com/event/27cc0458-e1e8-4846-a491-4d8dffcf0910@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-05-27T12:15:00",
+            "2026-05-27T13:00:00",
+            "Egenmonitorering i verkligheten – från införandeprocess till praktisk tillämpning",
+            "https://events.teams.microsoft.com/event/3df99ea8-5e90-4e48-a0e2-c0f100e5c2ad@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-06-10T12:15:00",
+            "2026-06-10T13:00:00",
+            "Kommunikation över språkbarriärer med AI-assistenten Helen – nu integrerad i COSMIC",
+            "https://events.teams.microsoft.com/event/e1fb8c1f-f5d3-48a8-b56a-e579c72af405@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ]
+    ],
+    "date": "1769110792821",
+    "latestUpdate": "Uppdaterades senast vid: 2026-01-22 20:39",
+    "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
