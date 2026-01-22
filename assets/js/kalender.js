@@ -293,7 +293,7 @@ var loadFile = function (filePath, done) {
         xhr.open("GET", encodeURI(filePath), true);
         xhr.send();
 };
-    loadFile("/assets/data/event.json", function (responseText) {
+    loadFile("/assets/data/kalender.json", function (responseText) {
         var results = JSON.parse(responseText);
         console.log('Kalender: ' + results.latestUpdate);
         var ev = [];
