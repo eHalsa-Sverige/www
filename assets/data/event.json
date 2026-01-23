@@ -2,18 +2,6 @@
     "data": [
         [
             "01",
-            "21",
-            "e-Hälsa+MVTe",
-            "https://e-halsastockholm.se/"
-        ],
-        [
-            "01",
-            "21",
-            "Framtidens Hälso & Sjukvård",
-            "https://framtidenshalsosjukvard.se/"
-        ],
-        [
-            "01",
             "28",
             "Samexistens på riktigt – så möjliggör vi informationsutbyte mellan system",
             "https://events.teams.microsoft.com/event/7a612178-ec84-4d9c-9109-00810162b679@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
@@ -29,9 +17,21 @@
             "29",
             "EHDS-dialog om sekundäranvändning av hälsodata",
             "https://skr.se/evenemang/evenemangskalender/ehdsdialogomsekundaranvandningavhalsodata.9821.html"
+        ],
+        [
+            "02",
+            "03",
+            "3D Printing in Stockholm / Uppsala",
+            "https://lifescience.stuns.se/3d-printing-in-stockholm-uppsala/"
+        ],
+        [
+            "02",
+            "04",
+            "Införande av AI-stöd för schemaläggning i Kalmar kommun",
+            "https://skr.se/evenemang/evenemangskalender/inforandeavaistodforschemalaggningikalmarkommun.9699.html"
         ]
     ],
-    "date": "1769117619895",
-    "latestUpdate": "Uppdaterades senast vid: 2026-01-22 22:33",
+    "date": "1769156059835",
+    "latestUpdate": "Uppdaterades senast vid: 2026-01-23 09:14",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

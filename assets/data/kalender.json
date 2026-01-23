@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "2026-01-21",
-            "2026-01-22",
-            "e-Hälsa+MVTe",
-            "https://e-halsastockholm.se/",
-            "Nordic Live Expo",
-            "3",
-            "TRUE"
-        ],
-        [
-            "2026-01-21",
-            "2026-01-22",
-            "Framtidens Hälso & Sjukvård",
-            "https://framtidenshalsosjukvard.se/",
-            "Nordic Live Expo",
-            "3",
-            "TRUE"
-        ],
-        [
             "2026-01-28T12:15:00",
             "2026-01-28T13:00:00",
             "Samexistens på riktigt – så möjliggör vi informationsutbyte mellan system",
@@ -343,7 +325,7 @@
             "TRUE"
         ]
     ],
-    "date": "1769117619895",
-    "latestUpdate": "Uppdaterades senast vid: 2026-01-22 22:33",
+    "date": "1769156059835",
+    "latestUpdate": "Uppdaterades senast vid: 2026-01-23 09:14",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
