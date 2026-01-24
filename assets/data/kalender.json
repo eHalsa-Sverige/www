@@ -316,6 +316,24 @@
             "FALSE"
         ],
         [
+            "2027-01-27",
+            "2027-01-28",
+            "e-Hälsa+MVTe",
+            "https://e-halsastockholm.se/",
+            "Nordic Live Expo",
+            "3",
+            "TRUE"
+        ],
+        [
+            "2027-01-27",
+            "2027-01-28",
+            "Framtidens Hälso & Sjukvård",
+            "https://framtidenshalsosjukvard.se/",
+            "Nordic Live Expo",
+            "3",
+            "TRUE"
+        ],
+        [
             "2027-11-16",
             "2027-11-18",
             "Kvalitetsmässan",
@@ -325,7 +343,7 @@
             "TRUE"
         ]
     ],
-    "date": "1769156059835",
-    "latestUpdate": "Uppdaterades senast vid: 2026-01-23 09:14",
+    "date": "1769220042110",
+    "latestUpdate": "Uppdaterades senast vid: 2026-01-24 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
