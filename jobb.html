@@ -1,0 +1,54 @@
+---
+layout: default
+title: Jobbannonser med eHälsa
+tags: eHälsa jobb karriär arbete
+description: "Här samlar vi jobbannonser inom temat eHälsa"
+sitemap:
+  lastmod: 2022-01-25
+  priority: 0.8
+  changefreq: 'weekly'
+header: ''
+footer: ''
+---
+<section>
+    <div id="jobbcontainer"></div>
+</section>
+
+<script>
+    function handleEvent(e) {
+        console.log(`Jobbannonser kunde inte laddas pga: "${e.type}" (${e.loaded} bytes transferred)`);
+    };
+    function makeP(text, wrapper){
+        var p = document.createElement('p');
+            var pT = document.createTextNode(text);
+            p.appendChild(pT);
+        wrapper.appendChild(p);
+    };
+    var loadFile = function (filePath, done) {
+        var xhr = new XMLHttpRequest();
+            xhr.addEventListener('error', handleEvent);
+            xhr.onload = function () { return done(this.responseText) }
+            xhr.open("GET", encodeURI(filePath), true);
+            xhr.send();
+    };
+    loadFile("https://links.api.jobtechdev.se/joblinks?q=\"e-hälsa\"", function (responseText) {
+        var data = JSON.parse(responseText);
+        console.log(data);
+        var wrapper = document.getElementById('jobbcontainer');
+        for (let i = 0; i < data.hits.length; i++) {
+            console.log(data.hits[i]);
+            var rubrik = document.createElement('h2');
+                var rubrikT = document.createTextNode(data.hits[i].headline);
+                rubrik.appendChild(rubrikT);
+            wrapper.appendChild(rubrik);
+            makeP(data.hits[i].employer.name, wrapper);
+            makeP(data.hits[i].publication_date.split('T')[0], wrapper);
+            if(!data.hits[i].workplace_addresses || data.hits[i].workplace_addresses == ''){
+                makeP("Plats inte specificerad", wrapper);
+            }else{
+                makeP(data.hits[i].workplace_addresses[0].municipality + ', ' + data.hits[i].workplace_addresses[0].region, wrapper);
+            };
+            makeP("", wrapper);
+        };
+    });
+</script>
