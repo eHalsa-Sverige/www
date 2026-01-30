@@ -1,33 +1,6 @@
 {
     "data": [
         [
-            "2026-01-28T12:15:00",
-            "2026-01-28T13:00:00",
-            "Samexistens på riktigt – så möjliggör vi informationsutbyte mellan system",
-            "https://events.teams.microsoft.com/event/7a612178-ec84-4d9c-9109-00810162b679@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-            "Cambio",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-01-28T09:30:00",
-            "2026-01-28T11:00:00",
-            "Införande av AI-stöd för schemaläggning i Tyresö kommun",
-            "https://skr.se/evenemang/evenemangskalender/inforandeavaistodforschemalaggningityresokommun.9725.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-01-29T13:30:00",
-            "2026-01-29T15:45:00",
-            "EHDS-dialog om sekundäranvändning av hälsodata",
-            "https://skr.se/evenemang/evenemangskalender/ehdsdialogomsekundaranvandningavhalsodata.9821.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-02-03T15:00:00",
             "2026-02-03T19:00:00",
             "3D Printing in Stockholm / Uppsala",
@@ -52,6 +25,15 @@
             "https://ssci.se/aktuellt/event/att-visa-medicintekniska-produkters-varde-real-world-data-och-kliniska-evidens",
             "Stockholm Science City",
             "2",
+            "FALSE"
+        ],
+        [
+            "2026-02-05T08:15:00",
+            "2026-02-05T00:815:00",
+            "Från data till utveckling – att arbeta systematiskt med uppföljning i socialtjänsten",
+            "https://skaneskommuner.se/kalendarium/event/frukostseminarium-7/",
+            "Skånes Kommuner",
+            "1",
             "FALSE"
         ],
         [
@@ -343,7 +325,7 @@
             "TRUE"
         ]
     ],
-    "date": "1769392841631",
-    "latestUpdate": "Uppdaterades senast vid: 2026-01-26 03:00",
+    "date": "1769810911666",
+    "latestUpdate": "Uppdaterades senast vid: 2026-01-30 23:08",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

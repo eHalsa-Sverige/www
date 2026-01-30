@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "01",
-            "28",
-            "Samexistens på riktigt – så möjliggör vi informationsutbyte mellan system",
-            "https://events.teams.microsoft.com/event/7a612178-ec84-4d9c-9109-00810162b679@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
-        ],
-        [
-            "01",
-            "28",
-            "Införande av AI-stöd för schemaläggning i Tyresö kommun",
-            "https://skr.se/evenemang/evenemangskalender/inforandeavaistodforschemalaggningityresokommun.9725.html"
-        ],
-        [
-            "01",
-            "29",
-            "EHDS-dialog om sekundäranvändning av hälsodata",
-            "https://skr.se/evenemang/evenemangskalender/ehdsdialogomsekundaranvandningavhalsodata.9821.html"
-        ],
-        [
             "02",
             "03",
             "3D Printing in Stockholm / Uppsala",
@@ -29,9 +11,27 @@
             "04",
             "Införande av AI-stöd för schemaläggning i Kalmar kommun",
             "https://skr.se/evenemang/evenemangskalender/inforandeavaistodforschemalaggningikalmarkommun.9699.html"
+        ],
+        [
+            "02",
+            "04",
+            "Att visa medicintekniska produkters värde",
+            "https://ssci.se/aktuellt/event/att-visa-medicintekniska-produkters-varde-real-world-data-och-kliniska-evidens"
+        ],
+        [
+            "02",
+            "05",
+            "Från data till utveckling – att arbeta systematiskt med uppföljning i socialtjänsten",
+            "https://skaneskommuner.se/kalendarium/event/frukostseminarium-7/"
+        ],
+        [
+            "02",
+            "06",
+            "Öppet forum om Snomed CT för användare – Rollen som Nationellt releasecenter (NRC) i Sverige",
+            "https://www.socialstyrelsen.se/kalendariet/oppet-forum-om-snomed-ct-for-anvandare--rollen-som-nationellt-releasecenter-nrc-i-sverige/"
         ]
     ],
-    "date": "1769392841631",
-    "latestUpdate": "Uppdaterades senast vid: 2026-01-26 03:00",
+    "date": "1769810911666",
+    "latestUpdate": "Uppdaterades senast vid: 2026-01-30 23:08",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
