@@ -2,24 +2,6 @@
     "data": [
         [
             "02",
-            "03",
-            "3D Printing in Stockholm / Uppsala",
-            "https://lifescience.stuns.se/3d-printing-in-stockholm-uppsala/"
-        ],
-        [
-            "02",
-            "04",
-            "Införande av AI-stöd för schemaläggning i Kalmar kommun",
-            "https://skr.se/evenemang/evenemangskalender/inforandeavaistodforschemalaggningikalmarkommun.9699.html"
-        ],
-        [
-            "02",
-            "04",
-            "Att visa medicintekniska produkters värde",
-            "https://ssci.se/aktuellt/event/att-visa-medicintekniska-produkters-varde-real-world-data-och-kliniska-evidens"
-        ],
-        [
-            "02",
             "05",
             "Från data till utveckling – att arbeta systematiskt med uppföljning i socialtjänsten",
             "https://skaneskommuner.se/kalendarium/event/frukostseminarium-7/"
@@ -29,9 +11,27 @@
             "06",
             "Öppet forum om Snomed CT för användare – Rollen som Nationellt releasecenter (NRC) i Sverige",
             "https://www.socialstyrelsen.se/kalendariet/oppet-forum-om-snomed-ct-for-anvandare--rollen-som-nationellt-releasecenter-nrc-i-sverige/"
+        ],
+        [
+            "02",
+            "10",
+            "MedInnovation i Skåne 2026",
+            "https://www.lif.se/event/kommande/2026/2/medinnovation-i-skane-2026/"
+        ],
+        [
+            "02",
+            "11",
+            "När samverkan sker – Cambio Obstetrik som exempel på effektivt samarbete vid införande",
+            "https://events.teams.microsoft.com/event/fc2ad64d-a451-4e35-ae5c-00ee5d1dbb57@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
+        ],
+        [
+            "02",
+            "11",
+            "Resultat och nästa steg för en digital nordisk region med människan i centrum",
+            "https://www.digg.se/kunskap-och-stod/kalender/evenemang/2026-01-14-webbinarium-resultat-och-nasta-steg-for-en-digital-nordisk-region-med-manniskan-i-centrum"
         ]
     ],
-    "date": "1770084041632",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-03 03:00",
+    "date": "1770256841640",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-05 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
