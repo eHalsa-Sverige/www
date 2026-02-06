@@ -2,12 +2,6 @@
     "data": [
         [
             "02",
-            "05",
-            "Från data till utveckling – att arbeta systematiskt med uppföljning i socialtjänsten",
-            "https://skaneskommuner.se/kalendarium/event/frukostseminarium-7/"
-        ],
-        [
-            "02",
             "06",
             "Öppet forum om Snomed CT för användare – Rollen som Nationellt releasecenter (NRC) i Sverige",
             "https://www.socialstyrelsen.se/kalendariet/oppet-forum-om-snomed-ct-for-anvandare--rollen-som-nationellt-releasecenter-nrc-i-sverige/"
@@ -29,9 +23,15 @@
             "11",
             "Resultat och nästa steg för en digital nordisk region med människan i centrum",
             "https://www.digg.se/kunskap-och-stod/kalender/evenemang/2026-01-14-webbinarium-resultat-och-nasta-steg-for-en-digital-nordisk-region-med-manniskan-i-centrum"
+        ],
+        [
+            "02",
+            "13",
+            "Inspirationsevent – Kraftsamling för AI i kommuner och civilsamhälle",
+            "https://sv-se.eu.invajo.com/event/aisweden/inspirationseventkraftsamlingforaiikommunerochcivilsamhalle"
         ]
     ],
-    "date": "1770256841640",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-05 03:00",
+    "date": "1770343241714",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-06 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-02-05T08:15:00",
-            "2026-02-05T00:815:00",
-            "Från data till utveckling – att arbeta systematiskt med uppföljning i socialtjänsten",
-            "https://skaneskommuner.se/kalendarium/event/frukostseminarium-7/",
-            "Skånes Kommuner",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-02-06T09:00:00",
             "2026-02-06T10:30:00",
             "Öppet forum om Snomed CT för användare – Rollen som Nationellt releasecenter (NRC) i Sverige",
@@ -298,7 +289,7 @@
             "TRUE"
         ]
     ],
-    "date": "1770256841640",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-05 03:00",
+    "date": "1770343241714",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-06 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
