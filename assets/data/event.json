@@ -2,12 +2,6 @@
     "data": [
         [
             "02",
-            "06",
-            "Öppet forum om Snomed CT för användare – Rollen som Nationellt releasecenter (NRC) i Sverige",
-            "https://www.socialstyrelsen.se/kalendariet/oppet-forum-om-snomed-ct-for-anvandare--rollen-som-nationellt-releasecenter-nrc-i-sverige/"
-        ],
-        [
-            "02",
             "10",
             "MedInnovation i Skåne 2026",
             "https://www.lif.se/event/kommande/2026/2/medinnovation-i-skane-2026/"
@@ -29,9 +23,15 @@
             "13",
             "Inspirationsevent – Kraftsamling för AI i kommuner och civilsamhälle",
             "https://sv-se.eu.invajo.com/event/aisweden/inspirationseventkraftsamlingforaiikommunerochcivilsamhalle"
+        ],
+        [
+            "02",
+            "19",
+            "Kollektiv digitalisering: Från samverkan till samskapande",
+            "https://skr.se/evenemang/evenemangskalender/kollektivdigitaliseringfransamverkantillsamskapande.9517.html"
         ]
     ],
-    "date": "1770343241714",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-06 03:00",
+    "date": "1770556682686",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-08 14:18",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

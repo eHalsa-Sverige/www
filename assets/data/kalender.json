@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-02-06T09:00:00",
-            "2026-02-06T10:30:00",
-            "Öppet forum om Snomed CT för användare – Rollen som Nationellt releasecenter (NRC) i Sverige",
-            "https://www.socialstyrelsen.se/kalendariet/oppet-forum-om-snomed-ct-for-anvandare--rollen-som-nationellt-releasecenter-nrc-i-sverige/",
-            "Socialstyrelsen",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-02-10T12:00:00",
             "2026-02-10T16:00:00",
             "MedInnovation i Skåne 2026",
@@ -53,6 +44,15 @@
             "SKR",
             "1",
             "TRUE"
+        ],
+        [
+            "2026-02-24T13:15:00",
+            "2026-02-24T14:45:00",
+            "AI - Socialtjänsten barn och unga",
+            "https://www.linkoping.se/fou-ostergotland/om-fou-ostergotland/evenemang/evenemang/2026-01-16-ai---socialtjansten-barn-och-unga",
+            "FoU Östergötland",
+            "1",
+            "FALSE"
         ],
         [
             "2026-02-24T13:00:00",
@@ -289,7 +289,7 @@
             "TRUE"
         ]
     ],
-    "date": "1770343241714",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-06 03:00",
+    "date": "1770556682686",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-08 14:18",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
