@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-02-10T12:00:00",
-            "2026-02-10T16:00:00",
-            "MedInnovation i Skåne 2026",
-            "https://www.lif.se/event/kommande/2026/2/medinnovation-i-skane-2026/",
-            "Lif",
-            "2",
-            "FALSE"
-        ],
-        [
             "2026-02-11T12:15:00",
             "2026-02-11T13:00:00",
             "När samverkan sker – Cambio Obstetrik som exempel på effektivt samarbete vid införande",
@@ -44,6 +35,15 @@
             "SKR",
             "1",
             "TRUE"
+        ],
+        [
+            "2026-02-20T12:15:00",
+            "2026-02-20T13:00:00",
+            "Digital access to electronic health records is expanding – information available to children and adolescents and the people involved in their care",
+            "https://digitalcareresearch.se/2026/02/09/lunch-webinar-digital-access-to-electronic-health-records-is-expanding-information-available-to-children-and-adolescents-and-the-people-involved-in-their-care/",
+            "Swedish Collaboration on Digital Care Research",
+            "1",
+            "FALSE"
         ],
         [
             "2026-02-24T13:15:00",
@@ -289,7 +289,7 @@
             "TRUE"
         ]
     ],
-    "date": "1770688841668",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-10 03:00",
+    "date": "1770775258149",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-11 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
