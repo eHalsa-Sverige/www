@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "2026-02-11T12:15:00",
-            "2026-02-11T13:00:00",
-            "När samverkan sker – Cambio Obstetrik som exempel på effektivt samarbete vid införande",
-            "https://events.teams.microsoft.com/event/fc2ad64d-a451-4e35-ae5c-00ee5d1dbb57@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-            "Cambio",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-02-11T13:00:00",
-            "2026-02-11T14:30:00",
-            "Resultat och nästa steg för en digital nordisk region med människan i centrum",
-            "https://www.digg.se/kunskap-och-stod/kalender/evenemang/2026-01-14-webbinarium-resultat-och-nasta-steg-for-en-digital-nordisk-region-med-manniskan-i-centrum",
-            "DIGG",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-02-13T10:00:00",
             "2026-02-13T11:30:00",
             "Inspirationsevent – Kraftsamling för AI i kommuner och civilsamhälle",
@@ -289,7 +271,7 @@
             "TRUE"
         ]
     ],
-    "date": "1770775258149",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-11 03:00",
+    "date": "1770861657968",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-12 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
