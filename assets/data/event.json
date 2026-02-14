@@ -2,12 +2,6 @@
     "data": [
         [
             "02",
-            "13",
-            "Inspirationsevent – Kraftsamling för AI i kommuner och civilsamhälle",
-            "https://sv-se.eu.invajo.com/event/aisweden/inspirationseventkraftsamlingforaiikommunerochcivilsamhalle"
-        ],
-        [
-            "02",
             "19",
             "Kollektiv digitalisering: Från samverkan till samskapande",
             "https://skr.se/evenemang/evenemangskalender/kollektivdigitaliseringfransamverkantillsamskapande.9517.html"
@@ -29,9 +23,15 @@
             "24",
             "Dialogmöte för SVOD, tillfälle 2",
             "https://skr.se/evenemang/evenemangskalender/dialogmoteforsvodtillfalle2.9667.html"
+        ],
+        [
+            "02",
+            "24",
+            "Digitaliseringens utmaningar och möjligheter",
+            "https://www.teknikhuset.org/event/213"
         ]
     ],
-    "date": "1770948057892",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-13 03:00",
+    "date": "1771034458200",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-14 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
