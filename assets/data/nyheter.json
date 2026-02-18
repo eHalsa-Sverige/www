@@ -1,6 +1,18 @@
 {
     "data": [
         {
+            "title": "Så betalar du fakturan med Fritidskortet",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/sa-betalar-du-fakturan-med-fritidskortet/",
+            "date": "2026-02-17",
+            "source": "E-hälsomyndigheten"
+        },
+        {
+            "title": "Nya nationella riktlinjer för könsdysfori",
+            "link": "https://www.socialstyrelsen.se/link/b0077eb1d866473db205b10015853f10.aspx",
+            "date": "2026-02-17",
+            "source": "Socialstyrelsen"
+        },
+        {
             "title": "Uppdrag om juridisk vägledning för användning av hälsodata slutredovisas",
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/rapport/",
             "date": "2026-02-05",
@@ -17,21 +29,9 @@
             "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/revideradeersattningarfordigitalutomlansvard.9910.html",
             "date": "2026-02-03",
             "source": "SKR"
-        },
-        {
-            "title": "Ny prognos: Åldrande befolkning ger höjda krav på cancervården",
-            "link": "https://www.socialstyrelsen.se/link/3f86e35d532a460fbe42ecfced07778b.aspx",
-            "date": "2026-02-03",
-            "source": "Socialstyrelsen"
-        },
-        {
-            "title": "Långsiktighet ökar kommuners och regioners produktivitet",
-            "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/langsiktighetokarkommunersochregionersproduktivitet.9974.html",
-            "date": "2026-02-02",
-            "source": "SKR"
         }
     ],
-    "date": "1771293642683",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-17 03:00",
+    "date": "1771380042757",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-18 03:00",
     "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }
