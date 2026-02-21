@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-02-20T12:15:00",
-            "2026-02-20T13:00:00",
-            "Digital access to electronic health records is expanding – information available to children and adolescents and the people involved in their care",
-            "https://digitalcareresearch.se/2026/02/09/lunch-webinar-digital-access-to-electronic-health-records-is-expanding-information-available-to-children-and-adolescents-and-the-people-involved-in-their-care/",
-            "Swedish Collaboration on Digital Care Research",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-02-24T13:15:00",
             "2026-02-24T14:45:00",
             "AI - Socialtjänsten barn och unga",
@@ -262,7 +253,7 @@
             "TRUE"
         ]
     ],
-    "date": "1771552842572",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-20 03:00",
+    "date": "1771639248480",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-21 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
