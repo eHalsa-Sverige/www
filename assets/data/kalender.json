@@ -1,42 +1,6 @@
 {
     "data": [
         [
-            "2026-02-24T13:15:00",
-            "2026-02-24T14:45:00",
-            "AI - Socialtjänsten barn och unga",
-            "https://www.linkoping.se/fou-ostergotland/om-fou-ostergotland/evenemang/evenemang/2026-01-16-ai---socialtjansten-barn-och-unga",
-            "FoU Östergötland",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-02-24T13:00:00",
-            "2026-02-24T14:30:00",
-            "Dialogmöte för SVOD, tillfälle 2",
-            "https://skr.se/evenemang/evenemangskalender/dialogmoteforsvodtillfalle2.9667.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-02-24T08:45:00",
-            "2026-02-24T15:30:00",
-            "Digitaliseringens utmaningar och möjligheter",
-            "https://www.teknikhuset.org/event/213",
-            "Teknikhuset",
-            "1",
-            "TRUE"
-        ],
-        [
-            "2026-02-24T09:00:00",
-            "2026-02-24T10:20:00",
-            "Involvera äldre och medarbetare i utvecklingsarbetet",
-            "https://www.socialstyrelsen.se/kalendariet/involvera-aldre-och-medarbetare-i-utvecklingsarbetet---delta-i-digitalt-erfarenhetsutbyte/",
-            "Socialstyrelsen",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-03-03T13:00:00",
             "2026-03-03T14:30:00",
             "Mobila trygghetslarm – nyttor att räkna med",
@@ -123,6 +87,15 @@
             "Alltid redo! Effektiv beredskapsplanering med Cambio Vårdlogistik",
             "https://events.teams.microsoft.com/event/5ba1e2e8-9752-43e5-98e4-9c81fdf0a470@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
             "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-03-27T12:15:00",
+            "2026-03-27T13:00:00",
+            "Hälsosamt åldrande i det digitala samhället",
+            "https://digitalcareresearch.se/2026/02/23/lunchwebbinar-halsosamt-aldrande-i-det-digitala-samhallet/",
+            "Swedish Collaboration on Digital Care Research",
             "1",
             "FALSE"
         ],
@@ -253,7 +226,7 @@
             "TRUE"
         ]
     ],
-    "date": "1771812047717",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-23 03:00",
+    "date": "1772260881677",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-28 07:41",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

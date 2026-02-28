@@ -1,6 +1,18 @@
 {
     "data": [
         {
+            "title": "E-recepttjänsten fungerar igen",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/e-recepttjansten-fungerar-igen/",
+            "date": "2026-02-26",
+            "source": "E-hälsomyndigheten"
+        },
+        {
+            "title": "Ny nationell lägesbild ska stärka Sveriges läkemedelsberedskap",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/ny-nationell-lagesbild-ska-starka-sveriges-lakemedelsberedskap/",
+            "date": "2026-02-25",
+            "source": "E-hälsomyndigheten"
+        },
+        {
             "title": "Ta chansen att påverka utformningen av basuppgifter i intyg",
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/ta-chansen-att-paverka-utformningen-av-basuppgifter-i-intyg/",
             "date": "2026-02-19",
@@ -17,21 +29,9 @@
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/sa-betalar-du-fakturan-med-fritidskortet/",
             "date": "2026-02-17",
             "source": "E-hälsomyndigheten"
-        },
-        {
-            "title": "Nya nationella riktlinjer för könsdysfori",
-            "link": "https://www.socialstyrelsen.se/link/b0077eb1d866473db205b10015853f10.aspx",
-            "date": "2026-02-17",
-            "source": "Socialstyrelsen"
-        },
-        {
-            "title": "Uppdrag om juridisk vägledning för användning av hälsodata slutredovisas",
-            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/rapport/",
-            "date": "2026-02-05",
-            "source": "E-hälsomyndigheten"
         }
     ],
-    "date": "1771812047717",
-    "latestUpdate": "Uppdaterades senast vid: 2026-02-23 03:00",
+    "date": "1772260881677",
+    "latestUpdate": "Uppdaterades senast vid: 2026-02-28 07:41",
     "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }
