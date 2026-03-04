@@ -2,12 +2,6 @@
     "data": [
         [
             "03",
-            "03",
-            "Mobila trygghetslarm – nyttor att räkna med",
-            "https://skr.se/evenemang/evenemangskalender/mobilatrygghetslarmnyttorattraknamed.9520.html"
-        ],
-        [
-            "03",
             "10",
             "Lanseringsseminarium om nya initiativ i Handslaget",
             "https://skr.se/evenemang/evenemangskalender/lanseringsseminariumomnyainitiativihandslaget.9840.html"
@@ -29,9 +23,15 @@
             "12",
             "Regulatory Summit 2026",
             "https://www.swedishmedtech.se/event#!educourse=Regulatory-Summit-2026__543072"
+        ],
+        [
+            "03",
+            "19",
+            "IoT Sveriges slutkonferens­",
+            "https://iotsverige.se/kalendarium/slutkonferens2026"
         ]
     ],
-    "date": "1772503253556",
-    "latestUpdate": "Uppdaterades senast vid: 2026-03-03 03:00",
+    "date": "1772589653484",
+    "latestUpdate": "Uppdaterades senast vid: 2026-03-04 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
