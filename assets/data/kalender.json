@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "2026-03-10T10:00:00",
-            "2026-03-10T11:30:00",
-            "Lanseringsseminarium om nya initiativ i Handslaget",
-            "https://skr.se/evenemang/evenemangskalender/lanseringsseminariumomnyainitiativihandslaget.9840.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-03-10T08:00:00",
-            "2026-03-10T10:00:00",
-            "Precisionsmedicin införs på Karolinska Universitetssjukhuset – nya möjligheter för Stockholms life science-ekosystem",
-            "https://ssci.se/10-mars",
-            "Stockholm Science City",
-            "2",
-            "FALSE"
-        ],
-        [
             "2026-03-11T12:15:00",
             "2026-03-11T13:00:00",
             "Så bygger vi in artificiell intelligens i Cambio Viva",
@@ -226,7 +208,7 @@
             "TRUE"
         ]
     ],
-    "date": "1773108053566",
-    "latestUpdate": "Uppdaterades senast vid: 2026-03-10 03:00",
+    "date": "1773194454315",
+    "latestUpdate": "Uppdaterades senast vid: 2026-03-11 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

@@ -2,18 +2,6 @@
     "data": [
         [
             "03",
-            "10",
-            "Lanseringsseminarium om nya initiativ i Handslaget",
-            "https://skr.se/evenemang/evenemangskalender/lanseringsseminariumomnyainitiativihandslaget.9840.html"
-        ],
-        [
-            "03",
-            "10",
-            "Precisionsmedicin införs på Karolinska Universitetssjukhuset – nya möjligheter för Stockholms life science-ekosystem",
-            "https://ssci.se/10-mars"
-        ],
-        [
-            "03",
             "11",
             "Så bygger vi in artificiell intelligens i Cambio Viva",
             "https://events.teams.microsoft.com/event/a3082c4f-8986-4d2e-b018-f21ca46920c8@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
@@ -29,9 +17,21 @@
             "19",
             "IoT Sveriges slutkonferens­",
             "https://iotsverige.se/kalendarium/slutkonferens2026"
+        ],
+        [
+            "03",
+            "19",
+            "Att använda data på riktigt: Vägen mot en sammanhållen välfärd",
+            "https://skr.se/evenemang/evenemangskalender/attanvandadatapariktigtvagenmotensammanhallenvalfard.9480.html"
+        ],
+        [
+            "03",
+            "23",
+            "Digitalt inköp - Hur ska det hanteras?",
+            "https://skr.se/evenemang/evenemangskalender/digitalainkophurskadethanteras.9833.html"
         ]
     ],
-    "date": "1773108053566",
-    "latestUpdate": "Uppdaterades senast vid: 2026-03-10 03:00",
+    "date": "1773194454315",
+    "latestUpdate": "Uppdaterades senast vid: 2026-03-11 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
