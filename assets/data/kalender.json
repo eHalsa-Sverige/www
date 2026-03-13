@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-03-12T08:15:00",
-            "2026-03-12T17:00:00",
-            "Regulatory Summit 2026",
-            "https://www.swedishmedtech.se/event#!educourse=Regulatory-Summit-2026__543072",
-            "Swedish Medtech, Läkemedelsverket",
-            "2",
-            "TRUE"
-        ],
-        [
             "2026-03-19T08:15:00",
             "2026-03-19T18:00:00",
             "IoT Sveriges slutkonferens­",
@@ -199,7 +190,7 @@
             "TRUE"
         ]
     ],
-    "date": "1773280853570",
-    "latestUpdate": "Uppdaterades senast vid: 2026-03-12 03:00",
+    "date": "1773367254245",
+    "latestUpdate": "Uppdaterades senast vid: 2026-03-13 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
