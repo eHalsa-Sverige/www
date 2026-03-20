@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "2026-03-19T08:15:00",
-            "2026-03-19T18:00:00",
-            "IoT Sveriges slutkonferens­",
-            "https://iotsverige.se/kalendarium/slutkonferens2026",
-            "IoT Sverige",
-            "2",
-            "FALSE"
-        ],
-        [
-            "2026-03-19T09:00:00",
-            "2026-03-19T12:00:00",
-            "Att använda data på riktigt: Vägen mot en sammanhållen välfärd",
-            "https://skr.se/evenemang/evenemangskalender/attanvandadatapariktigtvagenmotensammanhallenvalfard.9480.html",
-            "SKR",
-            "1",
-            "TRUE"
-        ],
-        [
             "2026-03-23T13:00:00",
             "2026-03-23T14:30:00",
             "Digitalt inköp - Hur ska det hanteras?",
@@ -190,7 +172,7 @@
             "TRUE"
         ]
     ],
-    "date": "1773885653724",
-    "latestUpdate": "Uppdaterades senast vid: 2026-03-19 03:00",
+    "date": "1773972053681",
+    "latestUpdate": "Uppdaterades senast vid: 2026-03-20 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
