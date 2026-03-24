@@ -2,12 +2,6 @@
     "data": [
         [
             "03",
-            "23",
-            "Digitalt inköp - Hur ska det hanteras?",
-            "https://skr.se/evenemang/evenemangskalender/digitalainkophurskadethanteras.9833.html"
-        ],
-        [
-            "03",
             "24",
             "Digitala inköp - hur ska det hanteras?",
             "https://skr.se/evenemang/evenemangskalender/digitalainkophurskadethanteras.9833.html"
@@ -29,9 +23,15 @@
             "07",
             "Dialogmöte för SVOD, tillfälle 3",
             "https://skr.se/evenemang/evenemangskalender/dialogmoteforsvodtillfalle3.9668.html"
+        ],
+        [
+            "04",
+            "08",
+            "Vårdplaner – för ökad invånarinvolvering och effektivare flöden i sjukvården",
+            "https://events.teams.microsoft.com/event/fd5afefe-2bdc-4083-9aed-6f99cc93a20c@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
         ]
     ],
-    "date": "1774231253596",
-    "latestUpdate": "Uppdaterades senast vid: 2026-03-23 03:00",
+    "date": "1774317653908",
+    "latestUpdate": "Uppdaterades senast vid: 2026-03-24 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

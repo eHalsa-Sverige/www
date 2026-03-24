@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-03-23T13:00:00",
-            "2026-03-23T14:30:00",
-            "Digitalt inköp - Hur ska det hanteras?",
-            "https://skr.se/evenemang/evenemangskalender/digitalainkophurskadethanteras.9833.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-03-24T13:00:00",
             "2026-03-24T14:30:00",
             "Digitala inköp - hur ska det hanteras?",
@@ -172,7 +163,7 @@
             "TRUE"
         ]
     ],
-    "date": "1774231253596",
-    "latestUpdate": "Uppdaterades senast vid: 2026-03-23 03:00",
+    "date": "1774317653908",
+    "latestUpdate": "Uppdaterades senast vid: 2026-03-24 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
