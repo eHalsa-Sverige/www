@@ -2,15 +2,15 @@
     "data": [
         [
             "04",
-            "07",
-            "Dialogmöte för SVOD, tillfälle 3",
-            "https://skr.se/evenemang/evenemangskalender/dialogmoteforsvodtillfalle3.9668.html"
-        ],
-        [
-            "04",
             "08",
             "Vårdplaner – för ökad invånarinvolvering och effektivare flöden i sjukvården",
             "https://events.teams.microsoft.com/event/fd5afefe-2bdc-4083-9aed-6f99cc93a20c@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
+        ],
+        [
+            "04",
+            "10",
+            "Missing Voices in GenAI Adoption: A Rapid Review of Physicians’ and Patients’ Experiences",
+            "https://doit.medfarm.uu.se/bin/kurt3/kurt/8902220"
         ],
         [
             "04",
@@ -31,7 +31,7 @@
             "https://vitalis.nu/"
         ]
     ],
-    "date": "1775523653548",
-    "latestUpdate": "Uppdaterades senast vid: 2026-04-07 03:00",
+    "date": "1775610053681",
+    "latestUpdate": "Uppdaterades senast vid: 2026-04-08 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
