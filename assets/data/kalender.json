@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-04-10T12:00:00",
-            "2026-04-10T13:00:00",
-            "Missing Voices in GenAI Adoption: A Rapid Review of Physicians’ and Patients’ Experiences",
-            "https://doit.medfarm.uu.se/bin/kurt3/kurt/8902220",
-            "Uppsala Universitet",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-04-14T08:00:00",
             "2026-04-14T10:30:00",
             "Right from the start - Bringing an AI-based medical device to the market",
@@ -136,7 +127,7 @@
             "TRUE"
         ]
     ],
-    "date": "1775782826561",
-    "latestUpdate": "Uppdaterades senast vid: 2026-04-10 03:00",
+    "date": "1775869226708",
+    "latestUpdate": "Uppdaterades senast vid: 2026-04-11 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
