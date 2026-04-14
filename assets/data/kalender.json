@@ -19,6 +19,15 @@
             "TRUE"
         ],
         [
+            "2026-04-21T15:00:00",
+            "2026-04-21T16:00:00",
+            "Kvalitetssäkring av hälsoappar – hur når vi jämlikhet?",
+            "https://lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/kvalitetssakring-av-halsoappar/",
+            "eHälsoinstitutet",
+            "1",
+            "FALSE"
+        ],
+        [
             "2026-04-22T12:15:00",
             "2026-04-22T13:00:00",
             "En sammanhållen vård, omsorg och socialtjänst – med individen i fokus",
@@ -127,7 +136,7 @@
             "TRUE"
         ]
     ],
-    "date": "1776042026554",
-    "latestUpdate": "Uppdaterades senast vid: 2026-04-13 03:00",
+    "date": "1776128426513",
+    "latestUpdate": "Uppdaterades senast vid: 2026-04-14 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
