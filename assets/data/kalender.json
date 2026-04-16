@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-04-15T09:00:00",
-            "2026-04-15T12:00:00",
-            "Det digitala arvet: Från bromskloss till möjliggörare",
-            "https://skr.se/evenemang/evenemangskalender/detdigitalaarvetfranbromsklosstillmojliggorare.9539.html",
-            "SKR",
-            "1",
-            "TRUE"
-        ],
-        [
             "2026-04-21T15:00:00",
             "2026-04-21T16:00:00",
             "Kvalitetssäkring av hälsoappar – hur når vi jämlikhet?",
@@ -127,7 +118,7 @@
             "TRUE"
         ]
     ],
-    "date": "1776214826565",
-    "latestUpdate": "Uppdaterades senast vid: 2026-04-15 03:00",
+    "date": "1776301226390",
+    "latestUpdate": "Uppdaterades senast vid: 2026-04-16 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
