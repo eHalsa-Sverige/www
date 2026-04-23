@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-04-22T12:15:00",
-            "2026-04-22T13:00:00",
-            "En sammanhållen vård, omsorg och socialtjänst – med individen i fokus",
-            "https://events.teams.microsoft.com/event/1e56e061-a9ef-4be4-89cf-6c355b669ccf@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-            "Cambio",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-05-04",
             "2026-05-07",
             "Vitalis",
@@ -109,7 +100,7 @@
             "TRUE"
         ]
     ],
-    "date": "1776819627796",
-    "latestUpdate": "Uppdaterades senast vid: 2026-04-22 03:00",
+    "date": "1776906026596",
+    "latestUpdate": "Uppdaterades senast vid: 2026-04-23 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
