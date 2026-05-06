@@ -46,6 +46,15 @@
             "FALSE"
         ],
         [
+            "2026-05-26T15:00:00",
+            "2026-05-26T16:00:00",
+            "När vården blir digital: effekter på ekonomi och kvalitet",
+            "https://lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/nar-varden-blir-digital-effekter-pa-ekonomi-och-kvalitet/",
+            "eHälsoinstitutet",
+            "1",
+            "FALSE"
+        ],
+        [
             "2026-05-27T12:15:00",
             "2026-05-27T13:00:00",
             "Egenmonitorering i verkligheten – från införandeprocess till praktisk tillämpning",
@@ -100,7 +109,7 @@
             "TRUE"
         ]
     ],
-    "date": "1777942826529",
-    "latestUpdate": "Uppdaterades senast vid: 2026-05-05 03:00",
+    "date": "1778029226650",
+    "latestUpdate": "Uppdaterades senast vid: 2026-05-06 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
