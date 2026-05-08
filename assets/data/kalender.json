@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "2026-05-04",
-            "2026-05-07",
-            "Vitalis",
-            "https://vitalis.nu/",
-            "Svenska Mässan",
-            "3",
-            "TRUE"
-        ],
-        [
-            "2026-05-07T09:00:00",
-            "2026-05-07T12:00:00",
-            "Digital mognad: Att bygga lång­siktig för­måga i hela organisa­tionen",
-            "https://skr.se/evenemang/evenemangskalender/digitalmognadattbyggalangsiktigformagaihelaorganisationen.9605.html",
-            "SKR",
-            "1",
-            "TRUE"
-        ],
-        [
             "2026-05-11",
             "2026-05-13",
             "The MedTech Forum 2026",
@@ -109,7 +91,7 @@
             "TRUE"
         ]
     ],
-    "date": "1778115627858",
-    "latestUpdate": "Uppdaterades senast vid: 2026-05-07 03:00",
+    "date": "1778202026830",
+    "latestUpdate": "Uppdaterades senast vid: 2026-05-08 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
