@@ -55,6 +55,15 @@
             "TRUE"
         ],
         [
+            "2026-06-09T08:00:00",
+            "2026-06-09T00:800:00",
+            "Nationell samling kring genomförandet av det europeiska hälsodataområdet",
+            "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/evenemang/nationell-samling-kring-genomforandet-av-det-europeiska-halsodataomradet",
+            "E-hälsomyndigheten, Socialstyrelsen, Inspektionen för vård och omsorg, Statistikmyndigheten SCB, Läkemedelsverket",
+            "3",
+            "FALSE"
+        ],
+        [
             "2026-06-10T12:15:00",
             "2026-06-10T13:00:00",
             "Kommunikation över språkbarriärer med AI-assistenten Helen – nu integrerad i COSMIC",
@@ -91,7 +100,7 @@
             "TRUE"
         ]
     ],
-    "date": "1778461226585",
-    "latestUpdate": "Uppdaterades senast vid: 2026-05-11 03:00",
+    "date": "1778547627090",
+    "latestUpdate": "Uppdaterades senast vid: 2026-05-12 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
