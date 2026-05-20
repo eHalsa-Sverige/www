@@ -2,12 +2,6 @@
     "data": [
         [
             "05",
-            "19",
-            "Dialogmöte för SVOD, tillfälle 4",
-            "https://skr.se/evenemang/evenemangskalender/dialogmoteforsvodtillfalle4.9669.html"
-        ],
-        [
-            "05",
             "26",
             "När vården blir digital: effekter på ekonomi och kvalitet",
             "https://lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/nar-varden-blir-digital-effekter-pa-ekonomi-och-kvalitet/"
@@ -29,9 +23,15 @@
             "09",
             "Nationell samling kring genomförandet av det europeiska hälsodataområdet",
             "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/evenemang/nationell-samling-kring-genomforandet-av-det-europeiska-halsodataomradet"
+        ],
+        [
+            "06",
+            "10",
+            "Kommunikation över språkbarriärer med AI-assistenten Helen – nu integrerad i COSMIC",
+            "https://events.teams.microsoft.com/event/e1fb8c1f-f5d3-48a8-b56a-e579c72af405@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
         ]
     ],
-    "date": "1779152426535",
-    "latestUpdate": "Uppdaterades senast vid: 2026-05-19 03:00",
+    "date": "1779238826729",
+    "latestUpdate": "Uppdaterades senast vid: 2026-05-20 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-05-19T13:00:00",
-            "2026-05-19T14:30:00",
-            "Dialogmöte för SVOD, tillfälle 4",
-            "https://skr.se/evenemang/evenemangskalender/dialogmoteforsvodtillfalle4.9669.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-05-26T15:00:00",
             "2026-05-26T16:00:00",
             "När vården blir digital: effekter på ekonomi och kvalitet",
@@ -82,7 +73,7 @@
             "TRUE"
         ]
     ],
-    "date": "1779152426535",
-    "latestUpdate": "Uppdaterades senast vid: 2026-05-19 03:00",
+    "date": "1779238826729",
+    "latestUpdate": "Uppdaterades senast vid: 2026-05-20 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
