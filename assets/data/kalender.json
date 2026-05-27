@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-05-26T15:00:00",
-            "2026-05-26T16:00:00",
-            "När vården blir digital: effekter på ekonomi och kvalitet",
-            "https://lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/nar-varden-blir-digital-effekter-pa-ekonomi-och-kvalitet/",
-            "eHälsoinstitutet",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-05-27T12:15:00",
             "2026-05-27T13:00:00",
             "Egenmonitorering i verkligheten – från införandeprocess till praktisk tillämpning",
@@ -34,6 +25,15 @@
             "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/evenemang/nationell-samling-kring-genomforandet-av-det-europeiska-halsodataomradet",
             "E-hälsomyndigheten, Socialstyrelsen, Inspektionen för vård och omsorg, Statistikmyndigheten SCB, Läkemedelsverket",
             "3",
+            "FALSE"
+        ],
+        [
+            "2026-06-09T10:00:00",
+            "2026-06-09T11:00:00",
+            "Eslövs erfarenheter av AI-dokumentation i socialtjänsten",
+            "https://events.teams.microsoft.com/event/1725e07c-68ab-4695-8f21-8da8e2f3f85c@f043d475-51be-4d87-b97c-1adb5f47914e",
+            "Tandem Health",
+            "1",
             "FALSE"
         ],
         [
@@ -73,7 +73,7 @@
             "TRUE"
         ]
     ],
-    "date": "1779757226426",
-    "latestUpdate": "Uppdaterades senast vid: 2026-05-26 03:00",
+    "date": "1779843626508",
+    "latestUpdate": "Uppdaterades senast vid: 2026-05-27 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
