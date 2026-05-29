@@ -1,12 +1,6 @@
 {
     "data": [
         [
-            "05",
-            "28",
-            "Leda i ständig för­änd­ring: Styr­ning som möjlig­gör digitali­sering",
-            "https://skr.se/evenemang/evenemangskalender/ledaistandigforandringstyrningsommojliggordigitalisering.9454.html"
-        ],
-        [
             "06",
             "09",
             "Nationell samling kring genomförandet av det europeiska hälsodataområdet",
@@ -29,9 +23,15 @@
             "27",
             "e-Hälsa+MVTe",
             "https://e-halsastockholm.se/"
+        ],
+        [
+            "01",
+            "27",
+            "Framtidens Hälso & Sjukvård",
+            "https://framtidenshalsosjukvard.se/"
         ]
     ],
-    "date": "1779930026634",
-    "latestUpdate": "Uppdaterades senast vid: 2026-05-28 03:00",
+    "date": "1780016428222",
+    "latestUpdate": "Uppdaterades senast vid: 2026-05-29 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
