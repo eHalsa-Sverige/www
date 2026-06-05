@@ -1,6 +1,12 @@
 {
     "data": [
         {
+            "title": "Fler aktörer fullt anslutna till Nationella läkemedelslistan",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/fler-aktorer-fullt-anslutna-till-nationella-lakemedelslistan/",
+            "date": "2026-06-04",
+            "source": "E-hälsomyndigheten"
+        },
+        {
             "title": "E-hälsomyndigheten stärker arbetet med AI",
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/e-halsomyndigheten-starker-arbetet-med-ai/",
             "date": "2026-06-03",
@@ -23,15 +29,9 @@
             "link": "https://www.socialstyrelsen.se/link/c63b0b23b68c4cf887689ff310fef6a9.aspx",
             "date": "2026-05-28",
             "source": "Socialstyrelsen"
-        },
-        {
-            "title": "Många kommuner har börjat  använda AI i äldreomsorgen",
-            "link": "https://www.socialstyrelsen.se/link/4abf524170ca4f358a191eaea7509996.aspx",
-            "date": "2026-05-27",
-            "source": "Socialstyrelsen"
         }
     ],
-    "date": "1780534810231",
-    "latestUpdate": "Uppdaterades senast vid: 2026-06-04 03:00",
+    "date": "1780621227394",
+    "latestUpdate": "Uppdaterades senast vid: 2026-06-05 03:00",
     "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }
