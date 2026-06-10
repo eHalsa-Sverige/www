@@ -2,18 +2,6 @@
     "data": [
         [
             "06",
-            "09",
-            "Nationell samling kring genomförandet av det europeiska hälsodataområdet",
-            "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/evenemang/nationell-samling-kring-genomforandet-av-det-europeiska-halsodataomradet"
-        ],
-        [
-            "06",
-            "09",
-            "Eslövs erfarenheter av AI-dokumentation i socialtjänsten",
-            "https://events.teams.microsoft.com/event/1725e07c-68ab-4695-8f21-8da8e2f3f85c@f043d475-51be-4d87-b97c-1adb5f47914e"
-        ],
-        [
-            "06",
             "10",
             "Kommunikation över språkbarriärer med AI-assistenten Helen – nu integrerad i COSMIC",
             "https://events.teams.microsoft.com/event/e1fb8c1f-f5d3-48a8-b56a-e579c72af405@8c760c90-81eb-45cd-b43c-ec2c4a03080b"
@@ -29,9 +17,15 @@
             "27",
             "Framtidens Hälso & Sjukvård",
             "https://framtidenshalsosjukvard.se/"
+        ],
+        [
+            "11",
+            "16",
+            "Kvalitetsmässan",
+            "https://kvalitetsmassan.se/"
         ]
     ],
-    "date": "1780966825721",
-    "latestUpdate": "Uppdaterades senast vid: 2026-06-09 03:00",
+    "date": "1781053225716",
+    "latestUpdate": "Uppdaterades senast vid: 2026-06-10 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "2026-06-09T08:00:00",
-            "2026-06-09T00:800:00",
-            "Nationell samling kring genomförandet av det europeiska hälsodataområdet",
-            "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/evenemang/nationell-samling-kring-genomforandet-av-det-europeiska-halsodataomradet",
-            "E-hälsomyndigheten, Socialstyrelsen, Inspektionen för vård och omsorg, Statistikmyndigheten SCB, Läkemedelsverket",
-            "3",
-            "FALSE"
-        ],
-        [
-            "2026-06-09T10:00:00",
-            "2026-06-09T11:00:00",
-            "Eslövs erfarenheter av AI-dokumentation i socialtjänsten",
-            "https://events.teams.microsoft.com/event/1725e07c-68ab-4695-8f21-8da8e2f3f85c@f043d475-51be-4d87-b97c-1adb5f47914e",
-            "Tandem Health",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-06-10T12:15:00",
             "2026-06-10T13:00:00",
             "Kommunikation över språkbarriärer med AI-assistenten Helen – nu integrerad i COSMIC",
@@ -55,7 +37,7 @@
             "TRUE"
         ]
     ],
-    "date": "1780966825721",
-    "latestUpdate": "Uppdaterades senast vid: 2026-06-09 03:00",
+    "date": "1781053225716",
+    "latestUpdate": "Uppdaterades senast vid: 2026-06-10 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
