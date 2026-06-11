@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-06-10T12:15:00",
-            "2026-06-10T13:00:00",
-            "Kommunikation över språkbarriärer med AI-assistenten Helen – nu integrerad i COSMIC",
-            "https://events.teams.microsoft.com/event/e1fb8c1f-f5d3-48a8-b56a-e579c72af405@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
-            "Cambio",
-            "1",
-            "FALSE"
-        ],
-        [
             "2027-01-27",
             "2027-01-28",
             "e-Hälsa+MVTe",
@@ -37,7 +28,7 @@
             "TRUE"
         ]
     ],
-    "date": "1781053225716",
-    "latestUpdate": "Uppdaterades senast vid: 2026-06-10 03:00",
+    "date": "1781139625870",
+    "latestUpdate": "Uppdaterades senast vid: 2026-06-11 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
