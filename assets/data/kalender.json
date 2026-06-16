@@ -1,6 +1,15 @@
 {
     "data": [
         [
+            "2026-09-30T12:00:00",
+            "2026-09-30T13:00:00",
+            "DIGI-RISK: Hot och trakasserier i digital vård",
+            "https://ui.ungpd.com/Events/8861bbf1-5726-4bb6-95fe-7b8a752512c8",
+            "Uppsala universitet",
+            "1",
+            "FALSE"
+        ],
+        [
             "2027-01-27",
             "2027-01-28",
             "e-Hälsa+MVTe",
@@ -28,7 +37,7 @@
             "TRUE"
         ]
     ],
-    "date": "1781485225733",
-    "latestUpdate": "Uppdaterades senast vid: 2026-06-15 03:00",
+    "date": "1781571625722",
+    "latestUpdate": "Uppdaterades senast vid: 2026-06-16 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

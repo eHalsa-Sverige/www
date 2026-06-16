@@ -1,6 +1,12 @@
 {
     "data": [
         [
+            "09",
+            "30",
+            "DIGI-RISK: Hot och trakasserier i digital vård",
+            "https://ui.ungpd.com/Events/8861bbf1-5726-4bb6-95fe-7b8a752512c8"
+        ],
+        [
             "01",
             "27",
             "e-Hälsa+MVTe",
@@ -19,7 +25,7 @@
             "https://kvalitetsmassan.se/"
         ]
     ],
-    "date": "1781485225733",
-    "latestUpdate": "Uppdaterades senast vid: 2026-06-15 03:00",
+    "date": "1781571625722",
+    "latestUpdate": "Uppdaterades senast vid: 2026-06-16 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
