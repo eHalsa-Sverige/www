@@ -1,6 +1,12 @@
 {
     "data": [
         {
+            "title": "SKR på plats i Almedalen",
+            "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/skrpaplatsialmedalen.11377.html",
+            "date": "2026-06-17",
+            "source": "SKR"
+        },
+        {
             "title": "E-hälsomyndigheten är i Almedalen",
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/e-halsomyndigheten-ar-i-almedalen/",
             "date": "2026-06-16",
@@ -23,15 +29,9 @@
             "link": "https://www.socialstyrelsen.se/link/d7e53ea89d4f46cd8d734e8ec9bade16.aspx",
             "date": "2026-06-09",
             "source": "Socialstyrelsen"
-        },
-        {
-            "title": "Fler aktörer fullt anslutna till Nationella läkemedelslistan",
-            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/fler-aktorer-fullt-anslutna-till-nationella-lakemedelslistan/",
-            "date": "2026-06-04",
-            "source": "E-hälsomyndigheten"
         }
     ],
-    "date": "1781658025805",
-    "latestUpdate": "Uppdaterades senast vid: 2026-06-17 03:00",
+    "date": "1781744426115",
+    "latestUpdate": "Uppdaterades senast vid: 2026-06-18 03:00",
     "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }
