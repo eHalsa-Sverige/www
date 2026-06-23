@@ -1,6 +1,12 @@
 {
     "data": [
         {
+            "title": "När vården behöver hjälp över gränserna",
+            "link": "https://www.socialstyrelsen.se/link/dca94563082840ca8f960eaacd0dc041.aspx",
+            "date": "2026-06-22",
+            "source": "Socialstyrelsen"
+        },
+        {
             "title": "Ikappvaccination ska ge fler barn skydd mot vattkoppor",
             "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/ikappvaccinationskageflerbarnskyddmotvattkoppor.11409.html",
             "date": "2026-06-18",
@@ -23,15 +29,9 @@
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/e-halsomyndigheten-ar-i-almedalen/",
             "date": "2026-06-16",
             "source": "E-hälsomyndigheten"
-        },
-        {
-            "title": "Antalet vårdplatser ökar i Sverige – men fortsatt arbete krävs",
-            "link": "https://www.socialstyrelsen.se/link/ba0f6b04d9194676ae5fd837dc4ef739.aspx",
-            "date": "2026-06-15",
-            "source": "Socialstyrelsen"
         }
     ],
-    "date": "1782090025698",
-    "latestUpdate": "Uppdaterades senast vid: 2026-06-22 03:00",
+    "date": "1782176425576",
+    "latestUpdate": "Uppdaterades senast vid: 2026-06-23 03:00",
     "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }
