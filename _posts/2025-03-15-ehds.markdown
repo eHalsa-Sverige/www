@@ -83,7 +83,7 @@ I Sverige måste det klargöras vilken roll aktörer som Inera och eHälsomyndig
 
 <br><br>
 **Läs mer:** [EU: Det europeiska hälsodataområdet](https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space_sv)<br>
-**Läs mer:** [E‑hälsomyndigheten: Nationellt råd för interoperabilitet](https://www.ehalsomyndigheten.se/om-oss/regeringsuppdrag/nationell-funktion-for-interoperabilitet/nationellt-rad-for-interoperabilitet/)<br>
+**Läs mer:** [E‑hälsomyndigheten: Nationellt råd för interoperabilitet](https://www.ehalsomyndigheten.se/verksamhet/ndi/nationellt-rad-for-interoperabilitet/)<br>
 **Läs mer:** [E‑hälsomyndigheten: Det europeiska hälsodataområdet, EHDS](https://www.ehalsomyndigheten.se/ehds/)<br>
 **Läs mer:** [Socialstyrelsen: EU:s gemensamma hälsodataområde – EHDS](https://www.socialstyrelsen.se/om-socialstyrelsen/organisation/internationellt-arbete/eus-gemensamma-halsodataomrade-ehds/)<br>
 **Läs mer:** [SKR: Det europeiska hälsodataområdet (EHDS)](https://skr.se/skr/naringslivarbetedigitalisering/digitalisering/euforordningareudirektivdigitalisering/forslag/deteuropeiskahalsodataomradetehds.70268.html)
