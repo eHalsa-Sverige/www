@@ -1,6 +1,18 @@
 {
     "data": [
         {
+            "title": "Ny kartläggning visar hur AI används i vården",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/ny-kartlaggning-visar-hur-ai-anvands-i-varden/",
+            "date": "2026-08-31",
+            "source": "E-hälsomyndigheten"
+        },
+        {
+            "title": "Samlat stöd för skolors säkerhetsarbete",
+            "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/samlatstodforskolorssakerhetsarbete.11645.html",
+            "date": "2026-08-31",
+            "source": "SKR"
+        },
+        {
             "title": "Uppdaterade kriterier stärker nationella gemensamma specifikationer",
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/uppdaterade-kriterier-starker-nationella-gemensamma-specifikationer/",
             "date": "2026-08-27",
@@ -17,21 +29,9 @@
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/fler-barn-far-mojlighet-till-en-aktiv-fritid/",
             "date": "2026-08-10",
             "source": "E-hälsomyndigheten"
-        },
-        {
-            "title": "Låt regionerna fortsatt få samordna på regional nivå",
-            "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/latregionernafortsattfasamordnaparegionalniva.11370.html",
-            "date": "2026-06-30",
-            "source": "SKR"
-        },
-        {
-            "title": "Svenskarna har ett stort behov av digitala vårdtjänster",
-            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/svenskarna-har-ett-stort-behov-av-digitala-vardtjanster/",
-            "date": "2026-06-25",
-            "source": "E-hälsomyndigheten"
         }
     ],
-    "date": "1788138025937",
-    "latestUpdate": "Uppdaterades senast vid: 2026-08-31 03:00",
+    "date": "1788224425851",
+    "latestUpdate": "Uppdaterades senast vid: 2026-09-01 03:00",
     "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }
