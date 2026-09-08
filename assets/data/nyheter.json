@@ -1,6 +1,12 @@
 {
     "data": [
         {
+            "title": "Fritidskortet har nått över en halv miljon barn och unga i år",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/fritidskortet-over-en-halv-miljon/",
+            "date": "2026-09-07",
+            "source": "E-hälsomyndigheten"
+        },
+        {
             "title": "Gemensam terminologi gör det enklare att utveckla digitala tjänster",
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/gemensam-terminologi-gor-det-enklare-att-utveckla-digitala-tjanster/",
             "date": "2026-09-04",
@@ -23,15 +29,9 @@
             "link": "https://skr.se/pressrum/aktuellt/nyhetsarkiv/samlatstodforskolorssakerhetsarbete.11645.html",
             "date": "2026-08-31",
             "source": "SKR"
-        },
-        {
-            "title": "Uppdaterade kriterier stärker nationella gemensamma specifikationer",
-            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/uppdaterade-kriterier-starker-nationella-gemensamma-specifikationer/",
-            "date": "2026-08-27",
-            "source": "E-hälsomyndigheten"
         }
     ],
-    "date": "1788742825852",
-    "latestUpdate": "Uppdaterades senast vid: 2026-09-07 03:00",
+    "date": "1788829225812",
+    "latestUpdate": "Uppdaterades senast vid: 2026-09-08 03:00",
     "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }
