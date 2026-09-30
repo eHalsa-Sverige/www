@@ -10,6 +10,15 @@
             "FALSE"
         ],
         [
+            "2026-10-06T10:00:00",
+            "2026-10-06T16:00:00",
+            "AI i socialtjänsten",
+            "https://sv-se.eu.invajo.com/events/welcome/id/09fc9ae0-a766-11f1-9e9c-5d06a177bca8",
+            "Nynäshamns kommun, Eslövs kommun, Klippans kommun, Tibro kommun, SKR, Tandem Health, AI Sweden",
+            "3",
+            "FALSE"
+        ],
+        [
             "2027-01-27",
             "2027-01-28",
             "e-Hälsa+MVTe",
@@ -28,6 +37,15 @@
             "TRUE"
         ],
         [
+            "2027-09-09",
+            "2027-09-10",
+            "From Dr. Google to Dr. Bot - what happens when generative AI enters healthcare?",
+            "https://www.uu.se/en/department/womens-and-childrens-health/research/digital-health-and-mental-health-unit/path---participatory-ehealth-and-health-data/upcoming-conference-2027",
+            "Uppsala universitet",
+            "3",
+            "FALSE"
+        ],
+        [
             "2027-11-16",
             "2027-11-18",
             "Kvalitetsmässan",
@@ -37,7 +55,7 @@
             "TRUE"
         ]
     ],
-    "date": "1790643626199",
-    "latestUpdate": "Uppdaterades senast vid: 2026-09-29 03:00",
+    "date": "1790730025696",
+    "latestUpdate": "Uppdaterades senast vid: 2026-09-30 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
