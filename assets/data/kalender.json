@@ -1,6 +1,321 @@
 {
     "data": [
         [
+            "2026-10-13",
+            "2026-10-14",
+            "Cambio Connect",
+            "https://www.cambio.se/event/cambio-connect/",
+            "Cambio",
+            "2",
+            "TRUE"
+        ],
+        [
+            "2026-10-13",
+            "2026-10-15",
+            "Medicinteknikdagarna",
+            "https://www.medicinteknikdagarna.se/",
+            "Örebro univeristet, Svensk Medicinteknisk Förening, Region Örebro län",
+            "2",
+            "TRUE"
+        ],
+        [
+            "2026-10-13T08:00:00",
+            "2026-10-13T00:800:00",
+            "Omprövning av värde: Hur bör vi bedöma nya behandlingar?",
+            "https://ssci.se/en/current/event/rethinking-value-how-should-we-assess-new-treatments",
+            "Stockholm Science City",
+            "2",
+            "FALSE"
+        ],
+        [
+            "2026-10-14T09:00:00",
+            "2026-10-14T11:00:00",
+            "Handslaget: Effekthemtagning av Identitet och behörighet",
+            "https://skr.se/evenemang/evenemangskalender/handslageteffekthemtagningavidentitetochbehorighet.11542.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-10-14",
+            "2026-10-16",
+            "Momentum",
+            "https://momentum2026.confetti.events/",
+            "Cancerfonden, MSD, Testbed Sweden, Lif",
+            "2",
+            "TRUE"
+        ],
+        [
+            "2026-10-14T13:00:00",
+            "2026-10-14T14:00:00",
+            "Kommunicera sammanhållen cancervård och god och nära vård",
+            "https://www.socialstyrelsen.se/kalendariet/workshop-kommunicera-sammanhallen-cancervard-och-god-och-nara-vard/",
+            "Socialstyrelsen",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-10-15T15:00:00",
+            "2026-10-15T16:00:00",
+            "1177-direkt – Ökad tillgänglighet, ökad arbetsbelastning – antingen eller?",
+            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/1177-direkt-okad-tillganglighet-okad-arbetsbelastning-antingen-eller/",
+            "eHälsoinstitutet, Lnu",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-10-22",
+            "2026-10-23",
+            "Att förebygga och mot­verka välfärds­brotts­lig­het 2026",
+            "https://skr.se/evenemang/evenemangskalender/attforebyggaochmotverkavalfardsbrottslighet2026.9614.html",
+            "SKR",
+            "3",
+            "TRUE"
+        ],
+        [
+            "2026-10-22T10:00:00",
+            "2026-10-22T10:50:00",
+            "Kunskap på agendan– för socialtjänst och kommunal hälso- och sjukvård oktober",
+            "https://skr.se/evenemang/evenemangskalender/kunskappaagendanforsocialtjanstochkommunalhalsoochsjukvardoktober.9736.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-10-22T15:00:00",
+            "2026-10-22T16:30:00",
+            "Simulering av urban epidemiologi – visualisering för samhällsnytta i Sverige",
+            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/forskningsseminarium-e-halsa-simulering-av-urban-epidemiologi-visualisering-for-samhallsnytta-i-sverige/",
+            "eHälsoinstitutet, Lnu",
+            "2",
+            "FALSE"
+        ],
+        [
+            "2026-10-22T10:00:00",
+            "2026-10-22T12:00:00",
+            "AI:s framtida påverkan på vården",
+            "https://www.healthdatasweden.eu/eventkalender/workshop-ais-framtida-paverkan-pa-varden",
+            "HDS",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-10-29T12:00:00",
+            "2026-10-29T13:00:00",
+            "Health Informatics Conversations med Farhad Abtahi",
+            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-farhad-abtahi",
+            "HDS",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-03T10:00:00",
+            "2026-11-03T12:00:00",
+            "Digitala besök i hemtjänsten",
+            "https://skr.se/evenemang/evenemangskalender/digitalabesokihemtjansten.11761.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-03T13:00:00",
+            "2026-11-03T14:30:00",
+            "Dialogmöte SVOD, fokus systemledarskap och Nära vård",
+            "https://skr.se/evenemang/evenemangskalender/dialogmotesvodfokussystemledarskapochnaravard.11347.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-03T13:00:00",
+            "2026-11-03T14:00:00",
+            "Upptäck 1177 för vårdpersonal",
+            "https://skr.se/evenemang/evenemangskalender/upptack1177forvardpersonal311.11901.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-04",
+            "2026-11-06",
+            "Dagar om Lagar 2026",
+            "https://forening.sls.se/sfmi/kalender/dagar-om-lagar-2026",
+            "SFMI, Västra Götalandsregionen, Vetenskapsrådet",
+            "2",
+            "TRUE"
+        ],
+        [
+            "2026-11-05T11:00:00",
+            "2026-11-05T12:00:00",
+            "Hälsodata möter juridik: praktiska verktyg och verkliga case",
+            "https://www.healthdatasweden.eu/eventkalender/halsodata-moter-juridik-praktiska-verktyg-och-verkliga-case",
+            "HDS",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-06T13:00:00",
+            "2026-11-06T14:00:00",
+            "Upptäck 1177 för vårdpersonal",
+            "https://skr.se/evenemang/evenemangskalender/upptack1177forvardpersonal311.11901.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-09T09:00:00",
+            "2026-11-09T15:30:00",
+            "Datadagen för offentlig sektor",
+            "https://skr.se/evenemang/evenemangskalender/datadagenforoffentligsektor.11917.html",
+            "SKR",
+            "1",
+            "TRUE"
+        ],
+        [
+            "2026-11-11T09:30:00",
+            "2026-11-11T16:00:00",
+            "SLS eHälsodag",
+            "https://www.sls.se/halsa-sjukvard/ehalsa/ehalsodagar/ehalsodag-2026",
+            "Svenska Läkaresällskapet, SFMI",
+            "2",
+            "TRUE"
+        ],
+        [
+            "2026-11-11T11:30:00",
+            "2026-11-11T17:00:00",
+            "Uppsala LIFE 2026 – Anticipating the unknown through science ",
+            "https://lifescience.stuns.se/uppsala-life-2026/",
+            "STUNS",
+            "2",
+            "FALSE"
+        ],
+        [
+            "2026-11-12T13:00:00",
+            "2026-11-12T17:00:00",
+            "Swedish Medtech Summit",
+            "https://www.swedishmedtech.se/event#!educourse=Swedish-Medtech-Summit__556744",
+            "Swedish Medtech",
+            "2",
+            "TRUE"
+        ],
+        [
+            "2026-11-17T13:00:00",
+            "2026-11-17T14:30:00",
+            "Dialogmöte SVOD: Så tar Västernorrland nästa steg mot SVOD",
+            "https://skr.se/evenemang/evenemangskalender/dialogmotesvodsatarvasternorrlandnastastegmotsvod.11681.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-17",
+            "2026-11-17",
+            "Heldag om forskning inom läkemedelsinformatik ",
+            "https://www.lnu.se/forskning/forskargrupper/ehalsoinstitutet/",
+            "eHälsoinstitutet, Lnu",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-17T11:00:00",
+            "2026-11-17T12:00:00",
+            "Fake it ’til you make it?Möjligheter och begränsningar med syntetiska data",
+            "https://www.healthdatasweden.eu/eventkalender/fake-it-till-you-make-it-mojligheter-och-begransningar-med-syntetiska-data",
+            "HDS",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-18T10:00:00",
+            "2026-11-18T12:00:00",
+            "Så stärkte Eslöv kommunikationen i socialtjänstens vardag",
+            "https://skr.se/evenemang/evenemangskalender/sastarkteeslovkommunikationenisocialtjanstensvardag.11923.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-19T15:00:00",
+            "2026-11-19T16:00:00",
+            "AI vid bedömning av akut bröstsmärta",
+            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/ai-vid-bedomning-av-akut-brostsmarta/",
+            "eHälsoinstitutet, Lnu",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-24T12:30:00",
+            "2026-11-24T16:00:00",
+            "Utbilda i tjänstedesign",
+            "https://skr.se/evenemang/evenemangskalender/utbildaitjanstedesign.10874.html",
+            "SKR",
+            "1",
+            "TRUE"
+        ],
+        [
+            "2026-11-25T13:00:00",
+            "2026-11-25T15:00:00",
+            "Handslaget: Effekthemtagning av Säker digital kommunikation",
+            "https://skr.se/evenemang/evenemangskalender/handslageteffekthemtagningavsakerdigitalkommunikation.11543.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-25T09:00:00",
+            "2026-11-25T10:30:00",
+            "The AI Network for healthcare",
+            "https://www.ai.se/en/ecosystem/networks-ai-councils/ai-network-healthcare",
+            "AI Sweden",
+            "1",
+            "TRUE"
+        ],
+        [
+            "2026-11-25T12:00:00",
+            "2026-11-25T13:00:00",
+            "Health Informatics Conversations med Annemieke Ålenius",
+            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-annemieke-alenius",
+            "HDS",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-11-25T13:00:00",
+            "2026-11-25T17:00:00",
+            "HDS Innovation Arena",
+            "https://www.healthdatasweden.eu/eventkalender/hds-innovation-arena-25-november-2026",
+            "HDS",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-12-01T13:00:00",
+            "2026-12-01T14:30:00",
+            "Dialogmöte SVOD, om informatik och arbete med sammanhållen planering på 1177",
+            "https://skr.se/evenemang/evenemangskalender/dialogmotesvodominformatikocharbetemedsammanhallenplanering1177.11416.html",
+            "SKR",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-12-03T15:00:00",
+            "2026-12-03T16:30:00",
+            "Forskning om och med patientrapporterade utfallsmått ",
+            "https://www.lnu.se/forskning/forskargrupper/ehalsoinstitutet/",
+            "eHälsoinstitutet, Lnu",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2026-12-17T12:00:00",
+            "2026-12-17T13:00:00",
+            "Health Informatics Conversations med Henrik Ahlenius",
+            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-henrik-ahlenius",
+            "HDS",
+            "1",
+            "FALSE"
+        ],
+        [
             "2027-01-27",
             "2027-01-28",
             "e-Hälsa+MVTe",
@@ -16,6 +331,15 @@
             "https://framtidenshalsosjukvard.se/",
             "Nordic Live Expo",
             "3",
+            "TRUE"
+        ],
+        [
+            "2027-02-09T08:45:00",
+            "2027-02-09T15:30:00",
+            "Ny teknik i äldreomsorgen",
+            "https://www.teknikhuset.org/event/377",
+            "Teknikhuset",
+            "1",
             "TRUE"
         ],
         [
@@ -37,7 +361,7 @@
             "TRUE"
         ]
     ],
-    "date": "1791680426033",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-11 03:00",
+    "date": "1791766825988",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-12 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

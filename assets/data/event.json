@@ -1,31 +1,37 @@
 {
     "data": [
         [
-            "01",
-            "27",
-            "e-Hälsa+MVTe",
-            "https://e-halsastockholm.se/"
+            "10",
+            "13",
+            "Cambio Connect",
+            "https://www.cambio.se/event/cambio-connect/"
         ],
         [
-            "01",
-            "27",
-            "Framtidens Hälso & Sjukvård",
-            "https://framtidenshalsosjukvard.se/"
+            "10",
+            "13",
+            "Medicinteknikdagarna",
+            "https://www.medicinteknikdagarna.se/"
         ],
         [
-            "09",
-            "09",
-            "From Dr. Google to Dr. Bot - what happens when generative AI enters healthcare?",
-            "https://www.uu.se/en/department/womens-and-childrens-health/research/digital-health-and-mental-health-unit/path---participatory-ehealth-and-health-data/upcoming-conference-2027"
+            "10",
+            "13",
+            "Omprövning av värde: Hur bör vi bedöma nya behandlingar?",
+            "https://ssci.se/en/current/event/rethinking-value-how-should-we-assess-new-treatments"
         ],
         [
-            "11",
-            "16",
-            "Kvalitetsmässan",
-            "https://kvalitetsmassan.se/"
+            "10",
+            "14",
+            "Handslaget: Effekthemtagning av Identitet och behörighet",
+            "https://skr.se/evenemang/evenemangskalender/handslageteffekthemtagningavidentitetochbehorighet.11542.html"
+        ],
+        [
+            "10",
+            "14",
+            "Momentum",
+            "https://momentum2026.confetti.events/"
         ]
     ],
-    "date": "1791680426033",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-11 03:00",
+    "date": "1791766825988",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-12 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
