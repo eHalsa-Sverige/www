@@ -19,15 +19,6 @@
             "TRUE"
         ],
         [
-            "2026-10-13T08:00:00",
-            "2026-10-13T00:800:00",
-            "Omprövning av värde: Hur bör vi bedöma nya behandlingar?",
-            "https://ssci.se/en/current/event/rethinking-value-how-should-we-assess-new-treatments",
-            "Stockholm Science City",
-            "2",
-            "FALSE"
-        ],
-        [
             "2026-10-14T09:00:00",
             "2026-10-14T11:00:00",
             "Handslaget: Effekthemtagning av Identitet och behörighet",
@@ -136,6 +127,15 @@
             "FALSE"
         ],
         [
+            "2026-11-03T12:00:00",
+            "2026-11-03T13:00:00",
+            "Förberedelser för att tillhandahålla och verifiera den europeiska patientöversikten",
+            "https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/det-europeiska-halsodataomradet-ehds/webbinarier-om-ehds/",
+            "E-hälsomyndigheten, Inspektionen för vård och omsorg, Läkemedelsverket, Socialstyrelsen",
+            "1",
+            "FALSE"
+        ],
+        [
             "2026-11-04",
             "2026-11-06",
             "Dagar om Lagar 2026",
@@ -143,6 +143,15 @@
             "SFMI, Västra Götalandsregionen, Vetenskapsrådet",
             "2",
             "TRUE"
+        ],
+        [
+            "2026-11-04T16:30:00",
+            "2026-11-04T19:00:00",
+            "eHealth Meetup i Göteborg",
+            "https://www.linkedin.com/events/ehealthmeetupig-teborg7513128616759709697/",
+            "Vitalis, VGR, SFMI",
+            "2",
+            "FALSE"
         ],
         [
             "2026-11-05T11:00:00",
@@ -307,6 +316,15 @@
             "FALSE"
         ],
         [
+            "2026-12-08T12:00:00",
+            "2026-12-08T13:00:00",
+            "Rollen som Myndighet för digital hälsa, MGH",
+            "https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/det-europeiska-halsodataomradet-ehds/webbinarier-om-ehds/",
+            "E-hälsomyndigheten, Inspektionen för vård och omsorg, Läkemedelsverket, Socialstyrelsen",
+            "1",
+            "FALSE"
+        ],
+        [
             "2026-12-17T12:00:00",
             "2026-12-17T13:00:00",
             "Health Informatics Conversations med Henrik Ahlenius",
@@ -361,7 +379,7 @@
             "TRUE"
         ]
     ],
-    "date": "1791853226532",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-13 03:00",
+    "date": "1791939627287",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-14 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
