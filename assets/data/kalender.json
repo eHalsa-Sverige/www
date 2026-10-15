@@ -2,30 +2,12 @@
     "data": [
         [
             "2026-10-13",
-            "2026-10-14",
-            "Cambio Connect",
-            "https://www.cambio.se/event/cambio-connect/",
-            "Cambio",
-            "2",
-            "TRUE"
-        ],
-        [
-            "2026-10-13",
             "2026-10-15",
             "Medicinteknikdagarna",
             "https://www.medicinteknikdagarna.se/",
             "Örebro univeristet, Svensk Medicinteknisk Förening, Region Örebro län",
             "2",
             "TRUE"
-        ],
-        [
-            "2026-10-14T09:00:00",
-            "2026-10-14T11:00:00",
-            "Handslaget: Effekthemtagning av Identitet och behörighet",
-            "https://skr.se/evenemang/evenemangskalender/handslageteffekthemtagningavidentitetochbehorighet.11542.html",
-            "SKR",
-            "1",
-            "FALSE"
         ],
         [
             "2026-10-14",
@@ -35,15 +17,6 @@
             "Cancerfonden, MSD, Testbed Sweden, Lif",
             "2",
             "TRUE"
-        ],
-        [
-            "2026-10-14T13:00:00",
-            "2026-10-14T14:00:00",
-            "Kommunicera sammanhållen cancervård och god och nära vård",
-            "https://www.socialstyrelsen.se/kalendariet/workshop-kommunicera-sammanhallen-cancervard-och-god-och-nara-vard/",
-            "Socialstyrelsen",
-            "1",
-            "FALSE"
         ],
         [
             "2026-10-15T15:00:00",
@@ -379,7 +352,7 @@
             "TRUE"
         ]
     ],
-    "date": "1791939627287",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-14 03:00",
+    "date": "1792026027604",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-15 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
