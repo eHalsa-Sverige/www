@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-10-13",
-            "2026-10-15",
-            "Medicinteknikdagarna",
-            "https://www.medicinteknikdagarna.se/",
-            "Örebro univeristet, Svensk Medicinteknisk Förening, Region Örebro län",
-            "2",
-            "TRUE"
-        ],
-        [
             "2026-10-14",
             "2026-10-16",
             "Momentum",
@@ -17,15 +8,6 @@
             "Cancerfonden, MSD, Testbed Sweden, Lif",
             "2",
             "TRUE"
-        ],
-        [
-            "2026-10-15T15:00:00",
-            "2026-10-15T16:00:00",
-            "1177-direkt – Ökad tillgänglighet, ökad arbetsbelastning – antingen eller?",
-            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/1177-direkt-okad-tillganglighet-okad-arbetsbelastning-antingen-eller/",
-            "eHälsoinstitutet, Lnu",
-            "1",
-            "FALSE"
         ],
         [
             "2026-10-22",
@@ -350,9 +332,18 @@
             "Svenska Mässan",
             "2",
             "TRUE"
+        ],
+        [
+            "2026-11-05T10:00:00",
+            "2026-11-05T11:00:00",
+            "Nynäshamns införande av AI inom socialtjänsten",
+            "https://events.teams.microsoft.com/event/40a4674f-5d74-4fdd-8d3e-75d74836f6a2@f043d475-51be-4d87-b97c-1adb5f47914e?source=copyLinkLegacyShareEventDialog",
+            "Nynäshamns kommun, Tandem Health",
+            "1",
+            "FALSE"
         ]
     ],
-    "date": "1792026027604",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-15 03:00",
+    "date": "1792112426463",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-16 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

@@ -2,21 +2,9 @@
     "data": [
         [
             "10",
-            "13",
-            "Medicinteknikdagarna",
-            "https://www.medicinteknikdagarna.se/"
-        ],
-        [
-            "10",
             "14",
             "Momentum",
             "https://momentum2026.confetti.events/"
-        ],
-        [
-            "10",
-            "15",
-            "1177-direkt – Ökad tillgänglighet, ökad arbetsbelastning – antingen eller?",
-            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/1177-direkt-okad-tillganglighet-okad-arbetsbelastning-antingen-eller/"
         ],
         [
             "10",
@@ -29,9 +17,21 @@
             "22",
             "Kunskap på agendan– för socialtjänst och kommunal hälso- och sjukvård oktober",
             "https://skr.se/evenemang/evenemangskalender/kunskappaagendanforsocialtjanstochkommunalhalsoochsjukvardoktober.9736.html"
+        ],
+        [
+            "10",
+            "22",
+            "Simulering av urban epidemiologi – visualisering för samhällsnytta i Sverige",
+            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/forskningsseminarium-e-halsa-simulering-av-urban-epidemiologi-visualisering-for-samhallsnytta-i-sverige/"
+        ],
+        [
+            "10",
+            "22",
+            "AI:s framtida påverkan på vården",
+            "https://www.healthdatasweden.eu/eventkalender/workshop-ais-framtida-paverkan-pa-varden"
         ]
     ],
-    "date": "1792026027604",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-15 03:00",
+    "date": "1792112426463",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-16 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
