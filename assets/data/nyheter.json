@@ -1,6 +1,12 @@
 {
     "data": [
         {
+            "title": "Premiär för nytt informationsbrev",
+            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/premiar-for-nytt-informationsbrev/",
+            "date": "2026-10-16",
+            "source": "E-hälsomyndigheten"
+        },
+        {
             "title": "Barn och unga i familjehem föreslås få tillgång till Fritidskortet",
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/barn-och-unga-i-familjehem-foreslas-fa-tillgang-till-fritidskortet/",
             "date": "2026-10-08",
@@ -23,15 +29,9 @@
             "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/webbinarier-stottar-sektorn-inforandet-av-ehds/",
             "date": "2026-09-17",
             "source": "E-hälsomyndigheten"
-        },
-        {
-            "title": "Farmakologisk analys är nu certifierad som en medicinteknisk produkt ",
-            "link": "https://www.ehalsomyndigheten.se/om-ehalsomyndigheten/aktuellt/nyheter/2026/farmakologisk-analys-ar-nu-certifierad-som-en-medicinteknisk-produkt/",
-            "date": "2026-09-15",
-            "source": "E-hälsomyndigheten"
         }
     ],
-    "date": "1792112426463",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-16 03:00",
+    "date": "1792198827097",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-17 03:00",
     "source": "Tillåtelse att ta del och presentera information har införskaffats. Information tillhör respektive källa."
 }

@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-10-14",
-            "2026-10-16",
-            "Momentum",
-            "https://momentum2026.confetti.events/",
-            "Cancerfonden, MSD, Testbed Sweden, Lif",
-            "2",
-            "TRUE"
-        ],
-        [
             "2026-10-22",
             "2026-10-23",
             "Att förebygga och mot­verka välfärds­brotts­lig­het 2026",
@@ -341,9 +332,18 @@
             "Nynäshamns kommun, Tandem Health",
             "1",
             "FALSE"
+        ],
+        [
+            "2026-11-10T12:00:00",
+            "2026-11-10T13:00:00",
+            "HDS lunchwebbinarium med Luís Irgang: When AI Enters the Consultation Room: Navigating Tensions in Clinical Documentation",
+            "https://ui.ungpd.com/Events/dee01faa-a64a-425e-909d-cc16990c5b1b",
+            "Uppsala University, Högskolan i Halmstad",
+            "1",
+            "FALSE"
         ]
     ],
-    "date": "1792112426463",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-16 03:00",
+    "date": "1792198827097",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-17 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

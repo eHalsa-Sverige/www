@@ -2,12 +2,6 @@
     "data": [
         [
             "10",
-            "14",
-            "Momentum",
-            "https://momentum2026.confetti.events/"
-        ],
-        [
-            "10",
             "22",
             "Att förebygga och mot­verka välfärds­brotts­lig­het 2026",
             "https://skr.se/evenemang/evenemangskalender/attforebyggaochmotverkavalfardsbrottslighet2026.9614.html"
@@ -29,9 +23,15 @@
             "22",
             "AI:s framtida påverkan på vården",
             "https://www.healthdatasweden.eu/eventkalender/workshop-ais-framtida-paverkan-pa-varden"
+        ],
+        [
+            "10",
+            "29",
+            "Health Informatics Conversations med Farhad Abtahi",
+            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-farhad-abtahi"
         ]
     ],
-    "date": "1792112426463",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-16 03:00",
+    "date": "1792198827097",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-17 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
