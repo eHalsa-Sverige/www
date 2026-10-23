@@ -10,33 +10,6 @@
             "TRUE"
         ],
         [
-            "2026-10-22T10:00:00",
-            "2026-10-22T10:50:00",
-            "Kunskap på agendan– för socialtjänst och kommunal hälso- och sjukvård oktober",
-            "https://skr.se/evenemang/evenemangskalender/kunskappaagendanforsocialtjanstochkommunalhalsoochsjukvardoktober.9736.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-10-22T15:00:00",
-            "2026-10-22T16:30:00",
-            "Simulering av urban epidemiologi – visualisering för samhällsnytta i Sverige",
-            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/forskningsseminarium-e-halsa-simulering-av-urban-epidemiologi-visualisering-for-samhallsnytta-i-sverige/",
-            "eHälsoinstitutet, Lnu",
-            "2",
-            "FALSE"
-        ],
-        [
-            "2026-10-22T10:00:00",
-            "2026-10-22T12:00:00",
-            "AI:s framtida påverkan på vården",
-            "https://www.healthdatasweden.eu/eventkalender/workshop-ais-framtida-paverkan-pa-varden",
-            "HDS",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-10-29T12:00:00",
             "2026-10-29T13:00:00",
             "Health Informatics Conversations med Farhad Abtahi",
@@ -343,7 +316,7 @@
             "FALSE"
         ]
     ],
-    "date": "1792630826423",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-22 03:00",
+    "date": "1792717228375",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-23 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
