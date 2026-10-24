@@ -2,12 +2,6 @@
     "data": [
         [
             "10",
-            "22",
-            "Att förebygga och mot­verka välfärds­brotts­lig­het 2026",
-            "https://skr.se/evenemang/evenemangskalender/attforebyggaochmotverkavalfardsbrottslighet2026.9614.html"
-        ],
-        [
-            "10",
             "29",
             "Health Informatics Conversations med Farhad Abtahi",
             "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-farhad-abtahi"
@@ -29,9 +23,15 @@
             "03",
             "Upptäck 1177 för vårdpersonal",
             "https://skr.se/evenemang/evenemangskalender/upptack1177forvardpersonal311.11901.html"
+        ],
+        [
+            "11",
+            "03",
+            "Förberedelser för att tillhandahålla och verifiera den europeiska patientöversikten",
+            "https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/det-europeiska-halsodataomradet-ehds/webbinarier-om-ehds/"
         ]
     ],
-    "date": "1792717228375",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-23 03:00",
+    "date": "1792803626537",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-24 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

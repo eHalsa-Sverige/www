@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-10-22",
-            "2026-10-23",
-            "Att förebygga och mot­verka välfärds­brotts­lig­het 2026",
-            "https://skr.se/evenemang/evenemangskalender/attforebyggaochmotverkavalfardsbrottslighet2026.9614.html",
-            "SKR",
-            "3",
-            "TRUE"
-        ],
-        [
             "2026-10-29T12:00:00",
             "2026-10-29T13:00:00",
             "Health Informatics Conversations med Farhad Abtahi",
@@ -316,7 +307,7 @@
             "FALSE"
         ]
     ],
-    "date": "1792717228375",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-23 03:00",
+    "date": "1792803626537",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-24 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
