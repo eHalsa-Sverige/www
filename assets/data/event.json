@@ -1,12 +1,6 @@
 {
     "data": [
         [
-            "10",
-            "29",
-            "Health Informatics Conversations med Farhad Abtahi",
-            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-farhad-abtahi"
-        ],
-        [
             "11",
             "03",
             "Digitala besök i hemtjänsten",
@@ -29,9 +23,15 @@
             "03",
             "Förberedelser för att tillhandahålla och verifiera den europeiska patientöversikten",
             "https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/det-europeiska-halsodataomradet-ehds/webbinarier-om-ehds/"
+        ],
+        [
+            "11",
+            "04",
+            "Dagar om Lagar 2026",
+            "https://forening.sls.se/sfmi/kalender/dagar-om-lagar-2026"
         ]
     ],
-    "date": "1793239226259",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-29 03:00",
+    "date": "1793325628080",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-30 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

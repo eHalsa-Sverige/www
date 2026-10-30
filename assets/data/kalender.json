@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-10-29T12:00:00",
-            "2026-10-29T13:00:00",
-            "Health Informatics Conversations med Farhad Abtahi",
-            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-farhad-abtahi",
-            "HDS",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-11-03T10:00:00",
             "2026-11-03T12:00:00",
             "Digitala besök i hemtjänsten",
@@ -307,7 +298,7 @@
             "FALSE"
         ]
     ],
-    "date": "1793239226259",
-    "latestUpdate": "Uppdaterades senast vid: 2026-10-29 03:00",
+    "date": "1793325628080",
+    "latestUpdate": "Uppdaterades senast vid: 2026-10-30 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
