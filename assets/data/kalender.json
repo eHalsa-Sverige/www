@@ -1,42 +1,6 @@
 {
     "data": [
         [
-            "2026-11-03T10:00:00",
-            "2026-11-03T12:00:00",
-            "Digitala besök i hemtjänsten",
-            "https://skr.se/evenemang/evenemangskalender/digitalabesokihemtjansten.11761.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-11-03T13:00:00",
-            "2026-11-03T14:30:00",
-            "Dialogmöte SVOD, fokus systemledarskap och Nära vård",
-            "https://skr.se/evenemang/evenemangskalender/dialogmotesvodfokussystemledarskapochnaravard.11347.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-11-03T13:00:00",
-            "2026-11-03T14:00:00",
-            "Upptäck 1177 för vårdpersonal",
-            "https://skr.se/evenemang/evenemangskalender/upptack1177forvardpersonal311.11901.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-11-03T12:00:00",
-            "2026-11-03T13:00:00",
-            "Förberedelser för att tillhandahålla och verifiera den europeiska patientöversikten",
-            "https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/det-europeiska-halsodataomradet-ehds/webbinarier-om-ehds/",
-            "E-hälsomyndigheten, Inspektionen för vård och omsorg, Läkemedelsverket, Socialstyrelsen",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-11-04",
             "2026-11-06",
             "Dagar om Lagar 2026",
@@ -298,7 +262,7 @@
             "FALSE"
         ]
     ],
-    "date": "1793671226175",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-03 03:00",
+    "date": "1793757628434",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-04 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
