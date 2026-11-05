@@ -8,12 +8,6 @@
         ],
         [
             "11",
-            "04",
-            "eHealth Meetup i Göteborg",
-            "https://www.linkedin.com/events/ehealthmeetupig-teborg7513128616759709697/"
-        ],
-        [
-            "11",
             "05",
             "Hälsodata möter juridik: praktiska verktyg och verkliga case",
             "https://www.healthdatasweden.eu/eventkalender/halsodata-moter-juridik-praktiska-verktyg-och-verkliga-case"
@@ -29,9 +23,15 @@
             "06",
             "Upptäck 1177 för vårdpersonal",
             "https://skr.se/evenemang/evenemangskalender/upptack1177forvardpersonal311.11901.html"
+        ],
+        [
+            "11",
+            "09",
+            "Datadagen för offentlig sektor",
+            "https://skr.se/evenemang/evenemangskalender/datadagenforoffentligsektor.11917.html"
         ]
     ],
-    "date": "1793757628434",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-04 03:00",
+    "date": "1793844029588",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-05 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
