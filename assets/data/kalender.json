@@ -10,15 +10,6 @@
             "TRUE"
         ],
         [
-            "2026-11-05T11:00:00",
-            "2026-11-05T12:00:00",
-            "Hälsodata möter juridik: praktiska verktyg och verkliga case",
-            "https://www.healthdatasweden.eu/eventkalender/halsodata-moter-juridik-praktiska-verktyg-och-verkliga-case",
-            "HDS",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-11-06T13:00:00",
             "2026-11-06T14:00:00",
             "Upptäck 1177 för vårdpersonal",
@@ -235,15 +226,6 @@
             "TRUE"
         ],
         [
-            "2026-11-05T10:00:00",
-            "2026-11-05T11:00:00",
-            "Nynäshamns införande av AI inom socialtjänsten",
-            "https://events.teams.microsoft.com/event/40a4674f-5d74-4fdd-8d3e-75d74836f6a2@f043d475-51be-4d87-b97c-1adb5f47914e?source=copyLinkLegacyShareEventDialog",
-            "Nynäshamns kommun, Tandem Health",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-11-10T12:00:00",
             "2026-11-10T13:00:00",
             "HDS lunchwebbinarium med Luís Irgang: When AI Enters the Consultation Room: Navigating Tensions in Clinical Documentation",
@@ -253,7 +235,7 @@
             "FALSE"
         ]
     ],
-    "date": "1793844029588",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-05 03:00",
+    "date": "1793930426189",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-06 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
