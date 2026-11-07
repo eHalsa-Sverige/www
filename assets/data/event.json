@@ -2,18 +2,6 @@
     "data": [
         [
             "11",
-            "04",
-            "Dagar om Lagar 2026",
-            "https://forening.sls.se/sfmi/kalender/dagar-om-lagar-2026"
-        ],
-        [
-            "11",
-            "06",
-            "Upptäck 1177 för vårdpersonal",
-            "https://skr.se/evenemang/evenemangskalender/upptack1177forvardpersonal311.11901.html"
-        ],
-        [
-            "11",
             "09",
             "Datadagen för offentlig sektor",
             "https://skr.se/evenemang/evenemangskalender/datadagenforoffentligsektor.11917.html"
@@ -29,9 +17,21 @@
             "11",
             "SLS eHälsodag",
             "https://www.sls.se/halsa-sjukvard/ehalsa/ehalsodagar/ehalsodag-2026"
+        ],
+        [
+            "11",
+            "11",
+            "Uppsala LIFE 2026 – Anticipating the unknown through science ",
+            "https://lifescience.stuns.se/uppsala-life-2026/"
+        ],
+        [
+            "11",
+            "12",
+            "Swedish Medtech Summit",
+            "https://www.swedishmedtech.se/event#!educourse=Swedish-Medtech-Summit__556744"
         ]
     ],
-    "date": "1793930426189",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-06 03:00",
+    "date": "1794016828729",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-07 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

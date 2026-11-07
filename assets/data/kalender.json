@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "2026-11-04",
-            "2026-11-06",
-            "Dagar om Lagar 2026",
-            "https://forening.sls.se/sfmi/kalender/dagar-om-lagar-2026",
-            "SFMI, Västra Götalandsregionen, Vetenskapsrådet",
-            "2",
-            "TRUE"
-        ],
-        [
-            "2026-11-06T13:00:00",
-            "2026-11-06T14:00:00",
-            "Upptäck 1177 för vårdpersonal",
-            "https://skr.se/evenemang/evenemangskalender/upptack1177forvardpersonal311.11901.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-11-09T09:00:00",
             "2026-11-09T15:30:00",
             "Datadagen för offentlig sektor",
@@ -235,7 +217,7 @@
             "FALSE"
         ]
     ],
-    "date": "1793930426189",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-06 03:00",
+    "date": "1794016828729",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-07 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
