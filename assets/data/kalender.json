@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-11-09T09:00:00",
-            "2026-11-09T15:30:00",
-            "Datadagen för offentlig sektor",
-            "https://skr.se/evenemang/evenemangskalender/datadagenforoffentligsektor.11917.html",
-            "SKR",
-            "1",
-            "TRUE"
-        ],
-        [
             "2026-11-11T09:30:00",
             "2026-11-11T16:00:00",
             "SLS eHälsodag",
@@ -217,7 +208,7 @@
             "FALSE"
         ]
     ],
-    "date": "1794189628952",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-09 03:00",
+    "date": "1794276028452",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-10 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

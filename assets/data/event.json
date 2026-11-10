@@ -2,12 +2,6 @@
     "data": [
         [
             "11",
-            "09",
-            "Datadagen för offentlig sektor",
-            "https://skr.se/evenemang/evenemangskalender/datadagenforoffentligsektor.11917.html"
-        ],
-        [
-            "11",
             "10",
             "HDS lunchwebbinarium med Luís Irgang: When AI Enters the Consultation Room: Navigating Tensions in Clinical Documentation",
             "https://ui.ungpd.com/Events/dee01faa-a64a-425e-909d-cc16990c5b1b"
@@ -29,9 +23,15 @@
             "12",
             "Swedish Medtech Summit",
             "https://www.swedishmedtech.se/event#!educourse=Swedish-Medtech-Summit__556744"
+        ],
+        [
+            "11",
+            "17",
+            "Dialogmöte SVOD: Så tar Västernorrland nästa steg mot SVOD",
+            "https://skr.se/evenemang/evenemangskalender/dialogmotesvodsatarvasternorrlandnastastegmotsvod.11681.html"
         ]
     ],
-    "date": "1794189628952",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-09 03:00",
+    "date": "1794276028452",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-10 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
