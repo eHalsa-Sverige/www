@@ -2,12 +2,6 @@
     "data": [
         [
             "11",
-            "10",
-            "HDS lunchwebbinarium med Luís Irgang: When AI Enters the Consultation Room: Navigating Tensions in Clinical Documentation",
-            "https://ui.ungpd.com/Events/dee01faa-a64a-425e-909d-cc16990c5b1b"
-        ],
-        [
-            "11",
             "11",
             "SLS eHälsodag",
             "https://www.sls.se/halsa-sjukvard/ehalsa/ehalsodagar/ehalsodag-2026"
@@ -29,9 +23,15 @@
             "17",
             "Dialogmöte SVOD: Så tar Västernorrland nästa steg mot SVOD",
             "https://skr.se/evenemang/evenemangskalender/dialogmotesvodsatarvasternorrlandnastastegmotsvod.11681.html"
+        ],
+        [
+            "11",
+            "17",
+            "Heldag om forskning inom läkemedelsinformatik ",
+            "https://www.lnu.se/forskning/forskargrupper/ehalsoinstitutet/"
         ]
     ],
-    "date": "1794276028452",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-10 03:00",
+    "date": "1794362428630",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-11 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
