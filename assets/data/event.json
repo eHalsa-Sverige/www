@@ -2,18 +2,6 @@
     "data": [
         [
             "11",
-            "11",
-            "SLS eHälsodag",
-            "https://www.sls.se/halsa-sjukvard/ehalsa/ehalsodagar/ehalsodag-2026"
-        ],
-        [
-            "11",
-            "11",
-            "Uppsala LIFE 2026 – Anticipating the unknown through science ",
-            "https://lifescience.stuns.se/uppsala-life-2026/"
-        ],
-        [
-            "11",
             "12",
             "Swedish Medtech Summit",
             "https://www.swedishmedtech.se/event#!educourse=Swedish-Medtech-Summit__556744"
@@ -29,9 +17,21 @@
             "17",
             "Heldag om forskning inom läkemedelsinformatik ",
             "https://www.lnu.se/forskning/forskargrupper/ehalsoinstitutet/"
+        ],
+        [
+            "11",
+            "17",
+            "Fake it ’til you make it?Möjligheter och begränsningar med syntetiska data",
+            "https://www.healthdatasweden.eu/eventkalender/fake-it-till-you-make-it-mojligheter-och-begransningar-med-syntetiska-data"
+        ],
+        [
+            "11",
+            "18",
+            "Så stärkte Eslöv kommunikationen i socialtjänstens vardag",
+            "https://skr.se/evenemang/evenemangskalender/sastarkteeslovkommunikationenisocialtjanstensvardag.11923.html"
         ]
     ],
-    "date": "1794362428630",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-11 03:00",
+    "date": "1794448827662",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-12 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

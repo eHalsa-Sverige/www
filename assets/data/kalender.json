@@ -1,24 +1,6 @@
 {
     "data": [
         [
-            "2026-11-11T09:30:00",
-            "2026-11-11T16:00:00",
-            "SLS eHälsodag",
-            "https://www.sls.se/halsa-sjukvard/ehalsa/ehalsodagar/ehalsodag-2026",
-            "Svenska Läkaresällskapet, SFMI",
-            "2",
-            "TRUE"
-        ],
-        [
-            "2026-11-11T11:30:00",
-            "2026-11-11T17:00:00",
-            "Uppsala LIFE 2026 – Anticipating the unknown through science ",
-            "https://lifescience.stuns.se/uppsala-life-2026/",
-            "STUNS",
-            "2",
-            "FALSE"
-        ],
-        [
             "2026-11-12T13:00:00",
             "2026-11-12T17:00:00",
             "Swedish Medtech Summit",
@@ -199,7 +181,7 @@
             "TRUE"
         ]
     ],
-    "date": "1794362428630",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-11 03:00",
+    "date": "1794448827662",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-12 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
