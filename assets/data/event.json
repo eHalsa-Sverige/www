@@ -2,12 +2,6 @@
     "data": [
         [
             "11",
-            "12",
-            "Swedish Medtech Summit",
-            "https://www.swedishmedtech.se/event#!educourse=Swedish-Medtech-Summit__556744"
-        ],
-        [
-            "11",
             "17",
             "Dialogmöte SVOD: Så tar Västernorrland nästa steg mot SVOD",
             "https://skr.se/evenemang/evenemangskalender/dialogmotesvodsatarvasternorrlandnastastegmotsvod.11681.html"
@@ -29,9 +23,15 @@
             "18",
             "Så stärkte Eslöv kommunikationen i socialtjänstens vardag",
             "https://skr.se/evenemang/evenemangskalender/sastarkteeslovkommunikationenisocialtjanstensvardag.11923.html"
+        ],
+        [
+            "11",
+            "19",
+            "AI vid bedömning av akut bröstsmärta",
+            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/ai-vid-bedomning-av-akut-brostsmarta/"
         ]
     ],
-    "date": "1794448827662",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-12 03:00",
+    "date": "1794535227128",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-13 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

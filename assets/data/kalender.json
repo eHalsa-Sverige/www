@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-11-12T13:00:00",
-            "2026-11-12T17:00:00",
-            "Swedish Medtech Summit",
-            "https://www.swedishmedtech.se/event#!educourse=Swedish-Medtech-Summit__556744",
-            "Swedish Medtech",
-            "2",
-            "TRUE"
-        ],
-        [
             "2026-11-17T13:00:00",
             "2026-11-17T14:30:00",
             "Dialogmöte SVOD: Så tar Västernorrland nästa steg mot SVOD",
@@ -181,7 +172,7 @@
             "TRUE"
         ]
     ],
-    "date": "1794448827662",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-12 03:00",
+    "date": "1794535227128",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-13 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
