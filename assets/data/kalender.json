@@ -1,33 +1,6 @@
 {
     "data": [
         [
-            "2026-11-17T13:00:00",
-            "2026-11-17T14:30:00",
-            "Dialogmöte SVOD: Så tar Västernorrland nästa steg mot SVOD",
-            "https://skr.se/evenemang/evenemangskalender/dialogmotesvodsatarvasternorrlandnastastegmotsvod.11681.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-11-17",
-            "2026-11-17",
-            "Heldag om forskning inom läkemedelsinformatik ",
-            "https://www.lnu.se/forskning/forskargrupper/ehalsoinstitutet/",
-            "eHälsoinstitutet, Lnu",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-11-17T11:00:00",
-            "2026-11-17T12:00:00",
-            "Fake it ’til you make it?Möjligheter och begränsningar med syntetiska data",
-            "https://www.healthdatasweden.eu/eventkalender/fake-it-till-you-make-it-mojligheter-och-begransningar-med-syntetiska-data",
-            "HDS",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-11-18T10:00:00",
             "2026-11-18T12:00:00",
             "Så stärkte Eslöv kommunikationen i socialtjänstens vardag",
@@ -172,7 +145,7 @@
             "TRUE"
         ]
     ],
-    "date": "1794880827792",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-17 03:00",
+    "date": "1794967228434",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-18 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
