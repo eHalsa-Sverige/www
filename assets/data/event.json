@@ -2,12 +2,6 @@
     "data": [
         [
             "11",
-            "18",
-            "Så stärkte Eslöv kommunikationen i socialtjänstens vardag",
-            "https://skr.se/evenemang/evenemangskalender/sastarkteeslovkommunikationenisocialtjanstensvardag.11923.html"
-        ],
-        [
-            "11",
             "19",
             "AI vid bedömning av akut bröstsmärta",
             "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/ai-vid-bedomning-av-akut-brostsmarta/"
@@ -29,9 +23,15 @@
             "25",
             "The AI Network for healthcare",
             "https://www.ai.se/en/ecosystem/networks-ai-councils/ai-network-healthcare"
+        ],
+        [
+            "11",
+            "25",
+            "Health Informatics Conversations med Annemieke Ålenius",
+            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-annemieke-alenius"
         ]
     ],
-    "date": "1794967228434",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-18 03:00",
+    "date": "1795053626157",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-19 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
