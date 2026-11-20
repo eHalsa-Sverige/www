@@ -2,12 +2,6 @@
     "data": [
         [
             "11",
-            "19",
-            "AI vid bedömning av akut bröstsmärta",
-            "https://www.lnu.se/mot-linneuniversitetet/aktuellt/kalender/2026/ai-vid-bedomning-av-akut-brostsmarta/"
-        ],
-        [
-            "11",
             "24",
             "Utbilda i tjänstedesign",
             "https://skr.se/evenemang/evenemangskalender/utbildaitjanstedesign.10874.html"
@@ -29,9 +23,15 @@
             "25",
             "Health Informatics Conversations med Annemieke Ålenius",
             "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-annemieke-alenius"
+        ],
+        [
+            "11",
+            "25",
+            "HDS Innovation Arena",
+            "https://www.healthdatasweden.eu/eventkalender/hds-innovation-arena-25-november-2026"
         ]
     ],
-    "date": "1795053626157",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-19 03:00",
+    "date": "1795140027997",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-20 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
