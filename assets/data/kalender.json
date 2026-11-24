@@ -125,9 +125,18 @@
             "Svenska Mässan",
             "2",
             "TRUE"
+        ],
+        [
+            "2027-09-23",
+            "2027-09-24",
+            "eHälsoinstitutet 25 år – två dagar om framtidens digitala hälsa",
+            "https://www.lnu.se/ehalsoinstitutet25",
+            "eHälsoinstitutet, Lnu",
+            "2",
+            "FALSE"
         ]
     ],
-    "date": "1795399228063",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-23 03:00",
+    "date": "1795485628122",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-24 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
