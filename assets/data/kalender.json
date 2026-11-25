@@ -1,15 +1,6 @@
 {
     "data": [
         [
-            "2026-11-24T12:30:00",
-            "2026-11-24T16:00:00",
-            "Utbilda i tjänstedesign",
-            "https://skr.se/evenemang/evenemangskalender/utbildaitjanstedesign.10874.html",
-            "SKR",
-            "1",
-            "TRUE"
-        ],
-        [
             "2026-11-25T13:00:00",
             "2026-11-25T15:00:00",
             "Handslaget: Effekthemtagning av Säker digital kommunikation",
@@ -136,7 +127,7 @@
             "FALSE"
         ]
     ],
-    "date": "1795485628122",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-24 03:00",
+    "date": "1795572026378",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-25 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
