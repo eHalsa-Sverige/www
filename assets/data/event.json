@@ -1,37 +1,37 @@
 {
     "data": [
         [
-            "11",
-            "25",
-            "Handslaget: Effekthemtagning av Säker digital kommunikation",
-            "https://skr.se/evenemang/evenemangskalender/handslageteffekthemtagningavsakerdigitalkommunikation.11543.html"
-        ],
-        [
-            "11",
-            "25",
-            "The AI Network for healthcare",
-            "https://www.ai.se/en/ecosystem/networks-ai-councils/ai-network-healthcare"
-        ],
-        [
-            "11",
-            "25",
-            "Health Informatics Conversations med Annemieke Ålenius",
-            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-annemieke-alenius"
-        ],
-        [
-            "11",
-            "25",
-            "HDS Innovation Arena",
-            "https://www.healthdatasweden.eu/eventkalender/hds-innovation-arena-25-november-2026"
-        ],
-        [
             "12",
             "01",
             "Dialogmöte SVOD, om informatik och arbete med sammanhållen planering på 1177",
             "https://skr.se/evenemang/evenemangskalender/dialogmotesvodominformatikocharbetemedsammanhallenplanering1177.11416.html"
+        ],
+        [
+            "12",
+            "03",
+            "Forskning om och med patientrapporterade utfallsmått ",
+            "https://www.lnu.se/forskning/forskargrupper/ehalsoinstitutet/"
+        ],
+        [
+            "12",
+            "08",
+            "Rollen som Myndighet för digital hälsa, MGH",
+            "https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/det-europeiska-halsodataomradet-ehds/webbinarier-om-ehds/"
+        ],
+        [
+            "12",
+            "17",
+            "Health Informatics Conversations med Henrik Ahlenius",
+            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-henrik-ahlenius"
+        ],
+        [
+            "01",
+            "27",
+            "e-Hälsa+MVTe",
+            "https://e-halsastockholm.se/"
         ]
     ],
-    "date": "1795572026378",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-25 03:00",
+    "date": "1795658426425",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-26 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }

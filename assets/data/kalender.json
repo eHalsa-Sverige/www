@@ -1,42 +1,6 @@
 {
     "data": [
         [
-            "2026-11-25T13:00:00",
-            "2026-11-25T15:00:00",
-            "Handslaget: Effekthemtagning av Säker digital kommunikation",
-            "https://skr.se/evenemang/evenemangskalender/handslageteffekthemtagningavsakerdigitalkommunikation.11543.html",
-            "SKR",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-11-25T09:00:00",
-            "2026-11-25T10:30:00",
-            "The AI Network for healthcare",
-            "https://www.ai.se/en/ecosystem/networks-ai-councils/ai-network-healthcare",
-            "AI Sweden",
-            "1",
-            "TRUE"
-        ],
-        [
-            "2026-11-25T12:00:00",
-            "2026-11-25T13:00:00",
-            "Health Informatics Conversations med Annemieke Ålenius",
-            "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-annemieke-alenius",
-            "HDS",
-            "1",
-            "FALSE"
-        ],
-        [
-            "2026-11-25T13:00:00",
-            "2026-11-25T17:00:00",
-            "HDS Innovation Arena",
-            "https://www.healthdatasweden.eu/eventkalender/hds-innovation-arena-25-november-2026",
-            "HDS",
-            "1",
-            "FALSE"
-        ],
-        [
             "2026-12-01T13:00:00",
             "2026-12-01T14:30:00",
             "Dialogmöte SVOD, om informatik och arbete med sammanhållen planering på 1177",
@@ -127,7 +91,7 @@
             "FALSE"
         ]
     ],
-    "date": "1795572026378",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-25 03:00",
+    "date": "1795658426425",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-26 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
