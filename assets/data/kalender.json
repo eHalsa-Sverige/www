@@ -10,6 +10,15 @@
             "FALSE"
         ],
         [
+            "2026-12-02T12:15:00",
+            "2026-12-02T13:00:00",
+            "När AI blir verklighet i vården – erfarenheter från Värmland",
+            "https://events.teams.microsoft.com/event/bb88749d-0644-4fd7-b7a8-237e8e5124fc@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
             "2026-12-03T15:00:00",
             "2026-12-03T16:30:00",
             "Forskning om och med patientrapporterade utfallsmått ",
@@ -28,11 +37,29 @@
             "FALSE"
         ],
         [
+            "2026-12-16T12:15:00",
+            "2026-12-16T13:00:00",
+            "EHDS och NDI i praktiken – så driver vi utvecklingen tillsammans",
+            "https://events.teams.microsoft.com/event/21c2f110-1819-4f25-a0ed-e6db031d131d@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
             "2026-12-17T12:00:00",
             "2026-12-17T13:00:00",
             "Health Informatics Conversations med Henrik Ahlenius",
             "https://www.healthdatasweden.eu/eventkalender/hi-conversations-med-henrik-ahlenius",
             "HDS",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2027-01-20T12:15:00",
+            "2027-01-20T13:00:00",
+            "Från användarinsikt till användbar produkt – lärdomar från utvecklingen av den nya kronologiska journalen",
+            "https://events.teams.microsoft.com/event/d909e431-7dff-458b-bf81-9f44767add31@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
             "1",
             "FALSE"
         ],
@@ -55,6 +82,15 @@
             "TRUE"
         ],
         [
+            "2027-02-03T12:15:00",
+            "2027-02-03T13:00:00",
+            "Från driftstart till verksamhetsnytta – så lyckas vi med införandet",
+            "https://events.teams.microsoft.com/event/e1a104c9-4a82-4dbe-bc02-463a7f68017d@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
             "2027-02-09T08:45:00",
             "2027-02-09T15:30:00",
             "Ny teknik i äldreomsorgen",
@@ -62,6 +98,24 @@
             "Teknikhuset",
             "1",
             "TRUE"
+        ],
+        [
+            "2027-02-17T12:15:00",
+            "2027-02-17T13:00:00",
+            "Från informationsutbyte till sammanhållen patientbild",
+            "https://events.teams.microsoft.com/event/0d76c404-a6e2-4976-be79-24076cad3f68@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
+        ],
+        [
+            "2027-03-03T12:15:00",
+            "2027-03-03T13:00:00",
+            "Aurora teleQ och Cambio COSMIC – från integration till verksamhetsnytta",
+            "https://events.teams.microsoft.com/event/9f1ea401-723a-4705-b2c3-c040174a0440@8c760c90-81eb-45cd-b43c-ec2c4a03080b",
+            "Cambio",
+            "1",
+            "FALSE"
         ],
         [
             "2027-09-09",
@@ -73,15 +127,6 @@
             "FALSE"
         ],
         [
-            "2027-11-16",
-            "2027-11-18",
-            "Kvalitetsmässan",
-            "https://kvalitetsmassan.se/",
-            "Svenska Mässan",
-            "2",
-            "TRUE"
-        ],
-        [
             "2027-09-23",
             "2027-09-24",
             "eHälsoinstitutet 25 år – två dagar om framtidens digitala hälsa",
@@ -89,9 +134,18 @@
             "eHälsoinstitutet, Lnu",
             "2",
             "FALSE"
+        ],
+        [
+            "2027-11-16",
+            "2027-11-18",
+            "Kvalitetsmässan",
+            "https://kvalitetsmassan.se/",
+            "Svenska Mässan",
+            "2",
+            "TRUE"
         ]
     ],
-    "date": "1795658426425",
-    "latestUpdate": "Uppdaterades senast vid: 2026-11-26 03:00",
+    "date": "1795744826274",
+    "latestUpdate": "Uppdaterades senast vid: 2026-11-27 03:00",
     "source": "Information är manuellt insamlad från respektive eventsidor, inget sker automatiskt. Saknas ett event är det bara att meddela oss så lägger vi till det."
 }
